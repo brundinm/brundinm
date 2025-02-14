@@ -1,6 +1,4 @@
-### *** Michael Brundin's GitHub profile ***
-
-**MRB: Fri 14-Feb-2025**
+### *** Michael Brundin - GitHub profile ***
 
 ```
 Michael Brundin
@@ -40,13 +38,13 @@ career include the following:
   project at the University of Western Ontario comparing traditional library
   information systems and the emerging standards and protocols of the Semantic
   Web;
-- developed a web-based survey using a LAMP stack to provide the data
-  collection instrument for a SSHRC-funded grant to investigate students’ use
-  of instant messaging on the University of Western Ontario campus;
+- developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
+  stack to provide the data collection instrument for a SSHRC-funded grant to
+  investigate students’ use of instant messaging on the University of Western
+  Ontario campus;
 - designed and developed a digital resource repository application using a LAMP
-  (Linux, Apache, MySQL, and PHP) stack for the Canada-wide CAM (Complementary
-  and Alternative Medicine) in UME (Undergraduate Medical Education) Project
-  out of the University of Calgary;
+  stack for the Canada-wide CAM (Complementary and Alternative Medicine) in UME
+  (Undergraduate Medical Education) Project out of the University of Calgary;
 - developed extended services for, and resources integration within, the
   Java-based bibliographic search tool TAL Online (using OCLC’s SiteSearch set
   of tools), a province-wide virtual union catalog maintained by The Alberta
