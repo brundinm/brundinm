@@ -1,4 +1,4 @@
-### *** Michael Brundin - GitHub profile ***
+### Michael Brundin - GitHub profile
 
 ```
 Michael Brundin
