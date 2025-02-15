@@ -21,6 +21,8 @@ South Library\]), University of Calgary (Department of Community Health
 Sciences), and University of Western Ontario (Faculty of Information and Media
 Studies).
 
+---
+
 Some of the software applications that I have developed or contributed to in my
 career include the following:
 
@@ -62,6 +64,8 @@ career include the following:
   to automate the bindery process at the University of Alberta Libraries.
 - Developed an experimental web-based library catalog for a reference book
   collection utilizing Perl CGI scripts and SSI directives.
+
+---
 
 I have written code in the following programming languages:
 
@@ -123,6 +127,8 @@ I have written code in the following programming languages:
 
 - Style sheet languages
   - CSS (Cascading Style Sheets)
+
+---
 
 The code and files in the repositories below are from different digital
 projects that I have worked on at MacEwan University.
