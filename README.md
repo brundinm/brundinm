@@ -1,12 +1,14 @@
 ### *** Michael Brundin - GitHub profile ***
 
-`Michael Brundin`
-`Digital Services and Systems Librarian`
-`MacEwan University Library`
-`MacEwan University`
-`7-273A, 10700 104 Avenue NW`
-`Edmonton, Alberta`
-`Canada T5J 4S2`
+```
+Michael Brundin
+Digital Services and Systems Librarian
+MacEwan University Library
+MacEwan University
+7-273A, 10700 104 Avenue NW
+Edmonton, Alberta
+Canada T5J 4S2
+```
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
 at MacEwan University, which is located in Edmonton, Alberta, Canada.  In my
