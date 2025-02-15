@@ -58,8 +58,8 @@ career include the following:
   of tools), a province-wide virtual union catalog maintained by The Alberta
   Library providing unified access to the catalogs of hundreds of libraries
   across Alberta (academic, public, and special libraries).
-- Created a Microsoft Access and VBA bindery database application to automate
-  the bindery process at the University of Alberta Libraries.
+- Designed and created a Microsoft Access and VBA bindery database application
+  to automate the bindery process at the University of Alberta Libraries.
 - Developed an experimental web-based library catalog for a reference book
   collection utilizing Perl CGI scripts and SSI directives.
 
