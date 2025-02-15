@@ -1,17 +1,23 @@
 ### *** Michael Brundin - GitHub profile ***
 
-```
-Michael Brundin
-Digital Services and Systems Librarian
-MacEwan University Library
-MacEwan University
-7-273A, 10700 104 Avenue NW
-Edmonton, Alberta
-Canada T5J 4S2
-```
+`Michael Brundin`
+`Digital Services and Systems Librarian`
+`MacEwan University Library`
+`MacEwan University`
+`7-273A, 10700 104 Avenue NW`
+`Edmonton, Alberta`
+`Canada T5J 4S2`
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
-at MacEwan University, which is located in Edmonton, Alberta, Canada.
+at MacEwan University, which is located in Edmonton, Alberta, Canada.  In my
+career I have worked at The Alberta Library, Edmonton Public Library, MacEwan
+University (MacEwan University Library), Northern Alberta Institute of
+Technology (McNally Library), University of Alberta (Department of English and
+Film Studies, School of Library and Information Studies, and University of
+Alberta Libraries \[Cameron Library, Rutherford North Library, and Rutherford
+South Library\]), University of Calgary (Department of Community Health
+Sciences), and University of Western Ontario (Faculty of Information and Media
+Studies).
 
 Some of the software applications that I have developed or contributed to in my
 career include the following:
@@ -86,16 +92,18 @@ I have written code in the following programming languages:
 - Query languages
   - CCL (Common Command Language) (Z38.58 ANSI/NISO standard for information
     retrieval in OPACs and databases)
-  - CQL (Contextual Query Language) (Library of Congress' CQL query using the
+  - CQL (Contextual Query Language) (Library of Congress's CQL query using the
     SRU \[Search/Retrieve via URL\] protocol)
+  - jq (JSON query) (jq is a filter similar to sed for JSON data)
   - PQF (Prefix Query Format) / PQN (Prefix Query Notation) (Index Data's
     Z39.50 type-1 query using the Z39.50 protocol)
-  - jq (JSON query) (jq is a filter similar to sed for JSON data)
   - SPARQL (SPARQL Protocol and RDF Query Language)
   - SQL (Structured Query Language)
 
 - XML-based languages
   - RELAX NG (REgular LAnguage for XML Next Generation)
+  - SVG (Scalable Vector Graphics)
+  - XHTML (Extensible HyperText Markup Language)
   - XPath (XML Path Language)
   - XProc (XProc: An XML Pipeline Language)
   - XQuery (XML Query)
@@ -113,3 +121,6 @@ I have written code in the following programming languages:
 
 - Style sheet languages
   - CSS (Cascading Style Sheets)
+
+The code in the repositories below is from different digital projects I worked
+on at MacEwan University.
