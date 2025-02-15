@@ -24,43 +24,43 @@ Studies).
 Some of the software applications that I have developed or contributed to in my
 career include the following:
 
-- developed numerous scripts to facilitate data processing and data
+- Developed numerous scripts to facilitate data processing and data
   transformation operations on data exported from, and imported to, various
-  MacEwan University Library information systems;
-- developed and enhanced various systems and software applications in the CWRC
+  MacEwan University Library information systems.
+- Developed and enhanced various systems and software applications in the CWRC
   (Canadian Writing Research Collaboratory) Islandora repository at the
   University of Alberta, including developing the CWRC-hosted Royal Society of
   Canada’s (RSC) Expert Panel on The Status and Future of Canada’s Libraries
-  and Archives mapping and timeline application;
-- designed and developed a GIS application for the Edmonton Public Library to
+  and Archives mapping and timeline application.
+- Designed and developed a GIS application for the Edmonton Public Library to
   serve as the repository for community profiles, and to facilitate the
-  identification of branch library resource, program, and service needs;
-- developed a Microsoft Excel and VBA spreadsheet application model that
+  identification of branch library resource, program, and service needs.
+- Developed a Microsoft Excel and VBA spreadsheet application model that
   calculated Edmonton Public Library branch library productivity (units of
   activity per hour per FTE) using a weighted formula incorporating various
   library input measures (investments and resources) and output measures
-  (activity and use) to aid in branch library resource allocation decisions;
-- designed and created an RDF/XML metadata web application featuring web
+  (activity and use) to aid in branch library resource allocation decisions.
+- Designed and created an RDF/XML metadata web application featuring web
   resources related to Alzheimer’s disease that was an experimental online
   version of the traditional library vertical file, part of a larger research
   project at the University of Western Ontario comparing traditional library
   information systems and the emerging standards and protocols of the Semantic
-  Web;
-- developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
+  Web.
+- Developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
   stack to provide the data collection instrument for a SSHRC-funded grant to
   investigate students’ use of instant messaging on the University of Western
-  Ontario campus;
-- designed and developed a digital resource repository application using a LAMP
+  Ontario campus.
+- Designed and developed a digital resource repository application using a LAMP
   stack for the Canada-wide CAM (Complementary and Alternative Medicine) in UME
-  (Undergraduate Medical Education) Project out of the University of Calgary;
-- developed extended services for, and resources integration within, the
+  (Undergraduate Medical Education) Project out of the University of Calgary.
+- Developed extended services for, and resources integration within, the
   Java-based bibliographic search tool TAL Online (using OCLC’s SiteSearch set
   of tools), a province-wide virtual union catalog maintained by The Alberta
   Library providing unified access to the catalogs of hundreds of libraries
-  across Alberta (academic, public, and special libraries);
-- created a Microsoft Access and VBA bindery database application to automate
-  the bindery process at the University of Alberta Libraries; and
-- developed an experimental web-based library catalog for a reference book
+  across Alberta (academic, public, and special libraries).
+- Created a Microsoft Access and VBA bindery database application to automate
+  the bindery process at the University of Alberta Libraries.
+- Developed an experimental web-based library catalog for a reference book
   collection utilizing Perl CGI scripts and SSI directives.
 
 I have written code in the following programming languages:
@@ -89,7 +89,7 @@ I have written code in the following programming languages:
   - sed (stream editor)
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
-  - VBScript
+  - VBScript (Visual Basic Scripting Edition)
 
 - Query languages
   - CCL (Common Command Language) (Z38.58 ANSI/NISO standard for information
