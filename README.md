@@ -65,7 +65,7 @@ career include the following:
 - Developed an experimental web-based library catalog for a reference book
   collection utilizing Perl CGI scripts and SSI directives.
 
----
+<p align="center">* * *</p>
 
 I have written code in the following programming languages:
 
@@ -128,7 +128,7 @@ I have written code in the following programming languages:
 - Style sheet languages
   - CSS (Cascading Style Sheets)
 
----
+<p align="center">* * *</p>
 
 The code and files in the repositories below are from different digital
 projects that I have worked on at MacEwan University.
