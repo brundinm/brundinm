@@ -124,5 +124,5 @@ I have written code in the following programming languages:
 - Style sheet languages
   - CSS (Cascading Style Sheets)
 
-The code in the repositories below is from different digital projects I worked
-on at MacEwan University.
+The code in the repositories below is from different digital projects that I
+have workedon at MacEwan University.
