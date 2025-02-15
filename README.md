@@ -21,7 +21,7 @@ South Library\]), University of Calgary (Department of Community Health
 Sciences), and University of Western Ontario (Faculty of Information and Media
 Studies).
 
----
+<p align="center">----------</p>
 
 Some of the software applications that I have developed or contributed to in my
 career include the following:
