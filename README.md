@@ -81,16 +81,20 @@ I have written code in the following programming languages:
 
 - Interpreted (or scripting) languages
   - ActionScript
+  - ASP (Active Server Pages) (ASP.NET and ASP.NET Core)
   - AWK
   - DOS/Windows batch script (COMMAND.COM and cmd.exe)
   - JavaScript
+  - NSN (Novell Script for NetWare)
   - Perl (Practical Extraction and Reporting Language)
   - PHP (PHP: Hypertext Preprocessor)
   - PowerShell
   - Python
   - R
   - Ruby
+  - SAS
   - sed (stream editor)
+  - SPSS syntax
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
   - VBScript (Visual Basic Scripting Edition)
