@@ -75,13 +75,13 @@ I have written code in the following programming languages:
   - C
   - C++
   - Fortran (Formula Translation)
+  - Go
   - Java
   - Pascal
   - Visual Basic (classic and .NET)
 
 - Interpreted (or scripting) languages
   - ActionScript
-  - ASP (Active Server Pages) (ASP.NET and ASP.NET Core)
   - AWK
   - DOS/Windows batch script (COMMAND.COM and cmd.exe)
   - JavaScript
