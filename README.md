@@ -55,6 +55,12 @@ career include the following:
 - Designed and developed a digital resource repository application using a LAMP
   stack for the Canada-wide CAM (Complementary and Alternative Medicine) in UME
   (Undergraduate Medical Education) Project out of the University of Calgary.
+  Repository features included searching via Boolean operators, field
+  qualification, field limits, wildcard operators, and nested searching;
+  browsing via hypertext linked peer-reviewed summaries on CAM topics; browsing
+  via hypertext linked controlled subject terms (descriptors) applied to
+  describe the content of each resource; and a submission process so users
+  could submit CAM-related resources for inclusion into the repository.
 - Developed extended services for, and resources integration within, the
   Java-based bibliographic search tool TAL Online (using OCLC’s SiteSearch set
   of tools), a province-wide virtual union catalog maintained by The Alberta
@@ -115,7 +121,7 @@ I have written code in the following programming languages:
   - SQL (Structured Query Language)
 
 - XML-based languages
-  - RELAX NG (REgular LAnguage for XML Next Generation)
+  - RELAX NG (Regular Language for XML Next Generation)
   - SVG (Scalable Vector Graphics)
   - XHTML (Extensible HyperText Markup Language)
   - XPath (XML Path Language)
