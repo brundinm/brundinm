@@ -75,16 +75,19 @@ I have written code in the following programming languages:
   - BASIC (Beginners' All-Purpose Symbolic Instruction Code)
   - C
   - C++
-  - Fortran (Formula Translation)
+  - COBOL (Common Business-Oriented Language)
+  - Fortran (FORTRAN; Formula Translation)
   - Go
   - Java
+  - Lisp (LISP; List Processing)
   - Pascal
-  - Visual Basic (classic and .NET)
+  - Visual Basic (VB classic and VB.NET)
 
 - Interpreted (or scripting) languages
   - ActionScript
   - AWK
   - DOS/Windows batch script (COMMAND.COM and cmd.exe)
+  - GW-BASIC (Microsoft's dialect of the BASIC programming language)
   - JavaScript
   - NSN (Novell Script for NetWare)
   - Perl (Practical Extraction and Reporting Language)
@@ -126,8 +129,8 @@ I have written code in the following programming languages:
   - SGML (Standard Generalized Markup Language)
   - TEI (Text Encoding Initiative)
   - TEXTFORM (text-processing program on the MTS \[Michigan Terminal System\]
-    time-sharing computer operating system on the IBM System/360 mainframe
-    computer)
+    time-sharing computer operating system on the Amdahl 470V/6 mainframe
+    computer at the University of Alberta)
   - XML (Extensible Markup Language)
 
 - Style sheet languages
