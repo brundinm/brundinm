@@ -135,8 +135,8 @@ I have written code in the following programming languages:
   - SGML (Standard Generalized Markup Language)
   - TEI (Text Encoding Initiative)
   - TEXTFORM (text-processing program on the MTS \[Michigan Terminal System\]
-    time-sharing computer operating system on the Amdahl 470V/6 mainframe
-    computer at the University of Alberta)
+    time-sharing computer operating system on the IBM System/370-compatible
+    Amdahl 5880 mainframe computer at the University of Alberta)
   - XML (Extensible Markup Language)
 
 - Style sheet languages
