@@ -90,7 +90,7 @@ I have written code in the following programming languages:
   - TUTOR (PLATO Author Language; programming language for use on the PLATO
     \[Programmed Logic for Automatic Teaching Operations\] computer-assisted
     instruction system on the Digital Equipment Corporation VAX 11/785
-    minicomputer at the Faculty of Education at the University of Alberta.)
+    minicomputer at the Faculty of Education at the University of Alberta)
   - Visual Basic (VB classic and VB.NET)
 
 - Interpreted (or scripting) languages
