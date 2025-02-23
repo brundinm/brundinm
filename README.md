@@ -10,6 +10,10 @@ Edmonton, Alberta
 Canada T5J 4S2
 ```
 
+<p align="center">
+<a href="https://www.openstreetmap.org/#map=14/53.54701138001195/-113.5054676619921"><img src="https://github.com/brundinm/brundinm/blob/main/macewan-university.jpg"></a>
+</p>
+
 I am the Digital Services and Systems Librarian at MacEwan University Library
 at MacEwan University, which is located in Edmonton, Alberta, Canada.  In my
 career I have worked at The Alberta Library, Edmonton Public Library, MacEwan
