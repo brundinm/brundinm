@@ -87,6 +87,10 @@ I have written code in the following programming languages:
   - Java
   - Lisp (LISP; List Processing)
   - Pascal
+  - TUTOR (PLATO Author Language; programming language for use on the PLATO
+    \[Programmed Logic for Automatic Teaching Operations\] computer-assisted
+    instruction system on the Digital Equipment Corporation VAX 11/785
+    minicomputer at the Faculty of Education at the University of Alberta.)
   - Visual Basic (VB classic and VB.NET)
 
 - Interpreted (or scripting) languages
@@ -136,7 +140,7 @@ I have written code in the following programming languages:
   - TEI (Text Encoding Initiative)
   - TEXTFORM (text-processing program on the MTS \[Michigan Terminal System\]
     time-sharing computer operating system on the IBM System/370-compatible
-    Amdahl 5880 mainframe computer at the University of Alberta)
+    Amdahl 580/5860 mainframe computer at the University of Alberta)
   - XML (Extensible Markup Language)
 
 - Style sheet languages
