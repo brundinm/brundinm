@@ -9,6 +9,7 @@ MacEwan University
 Edmonton, Alberta
 Canada T5J 4S2
 ```
+<div style="width: 100%"><object width="100%" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=200&amp;hl=en&amp;q=53.54701138001195,%20-113.5054676619921+(MacEwan%20University%20Library)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/collections/drones/">drone quadcopter</a></object></div>
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
 at MacEwan University, which is located in Edmonton, Alberta, Canada.  In my
