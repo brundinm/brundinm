@@ -95,10 +95,10 @@ I have written code in the following programming languages:
 
 - Interpreted (or scripting) languages
   - ActionScript
-  - AWK
+  - AWK (Aho, Weinberger, and Kernighan \[AWK authors' last names\])
   - DOS/Windows batch script (COMMAND.COM and cmd.exe)
   - GW-BASIC (Microsoft's dialect of the BASIC programming language)
-  - JavaScript
+  - JavaScript (JS)
   - NSN (Novell Script for NetWare)
   - Perl (Practical Extraction and Reporting Language)
   - PHP (PHP: Hypertext Preprocessor)
