@@ -11,7 +11,7 @@ Canada T5J 4S2
 ```
 
 <p align="center">
-<a target="_blank" href="https://www.openstreetmap.org/#map=14/53.54701138001195/-113.5054676619921" rel="nofollow"><img src="https://github.com/brundinm/brundinm/raw/main/macewan-university.jpg" alt="Screenshot of MacEwan University from OpenStreetMaps" style="max-width: 100%;"></a>
+\[<img src="https://github.com/brundinm/brundinm/raw/main/macewan-university.jpg" alt="Screenshot of MacEwan University from OpenStreetMaps" style="max-width: 100%;">\](https://www.openstreetmap.org/#map=14/53.54701138001195/-113.5054676619921" rel="nofollow){:target="_blank" rel="noopener"}
 </p>
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
