@@ -74,7 +74,7 @@ career include the following:
 
 <p align="center">* * *</p>
 
-I have written code in the following programming languages (although the
+I have written code in the following programming languages (note: although the
 following category groupings are not entirely discrete nor necessarily mutually
 exclusive, the categories do provide a useful framing mechanism):
 
