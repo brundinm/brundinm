@@ -99,7 +99,7 @@ I have written code in the following programming languages:
   - DOS/Windows batch script (COMMAND.COM and cmd.exe)
   - GW-BASIC (Microsoft's dialect of the BASIC programming language)
   - JavaScript (JS)
-  - NSN (Novell Script for NetWare)
+  - Novell Script for NetWare (NSN)
   - Perl (Practical Extraction and Reporting Language)
   - PHP (PHP: Hypertext Preprocessor)
   - PowerShell
