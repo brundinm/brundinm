@@ -11,15 +11,15 @@ Canada T5J 4S2
 ```
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
-at MacEwan University, which is located in Edmonton, Alberta, Canada.  In my
-career I have worked at The Alberta Library, Edmonton Public Library, MacEwan
-University (John L. Haar Library, or MacEwan University Library), Northern
-Alberta Institute of Technology (McNally Library, or NAIT Library), University
-of Alberta (Department of English and Film Studies, School of Library and
-Information Studies, and University of Alberta Libraries \[Cameron Library,
-Rutherford North Library, and Rutherford South Library\]), University of
-Calgary (Department of Community Health Sciences), and University of Western
-Ontario (Faculty of Information and Media Studies).
+at MacEwan University, which is <a href="https://www.openstreetmap.org/?mlat=53.54699&mlon=-113.50576#map=15/53.54699/-113.50576">located</a>
+in Edmonton, Alberta, Canada.  In my career I have worked at The Alberta Library, Edmonton Public Library, MacEwan University (John L. Haar Library, or
+MacEwan University Library), Northern Alberta Institute of Technology (McNally
+Library, or NAIT Library), University of Alberta (Department of English and
+Film Studies, School of Library and Information Studies, and University of
+Alberta Libraries \[Cameron Library, Rutherford North Library, and Rutherford
+South Library\]), University of Calgary (Department of Community Health
+Sciences), and University of Western Ontario (Faculty of Information and Media
+Studies).
 
 <p align="center">* * *</p>
 
