@@ -74,9 +74,12 @@ career include the following:
 
 <p align="center">* * *</p>
 
-I have written code in the following programming languages:
+I have written code in the following programming languages (although the
+following category groupings are not entirely discrete nor necessarily mutually
+exclusive, the categories do provide a useful framing mechanism):
 
 - Compiled languages
+  - ActionScript
   - ALGOL W (Algorithmic Language)
   - BASIC (Beginners' All-Purpose Symbolic Instruction Code)
   - C
@@ -94,7 +97,6 @@ I have written code in the following programming languages:
   - Visual Basic (VB classic and VB.NET)
 
 - Interpreted (or scripting) languages
-  - ActionScript
   - AWK (Aho, Weinberger, and Kernighan \[AWK authors' last names\])
   - DOS/Windows batch script (COMMAND.COM and cmd.exe)
   - GW-BASIC (Microsoft's dialect of the BASIC programming language)
