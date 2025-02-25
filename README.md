@@ -129,7 +129,7 @@ categories do provide a useful framing mechanism):
 - XML-based languages
   - RELAX NG (Regular Language for XML Next Generation)
   - SVG (Scalable Vector Graphics)
-  - XHTML (Extensible HyperText Markup Language)
+  - XHTML (Extensible Hypertext Markup Language)
   - XPath (XML Path Language)
   - XProc (XProc: An XML Pipeline Language)
   - XQuery (XML Query)
@@ -137,7 +137,10 @@ categories do provide a useful framing mechanism):
   - XSLT (Extensible Stylesheet Language Transformations)
 
 - Markup languages
-  - HTML (Hyper Text Markup Language)
+  - HTML (Hypertext Markup Language)
+  - L<sup>A</sup>T<sub>E</sub>X
+  - LaTeX (Lamport \[LaTeX author's last name\], and the uppercase Greek
+    letters tau, epsilon, and chi)
   - SGML (Standard Generalized Markup Language)
   - TEI (Text Encoding Initiative)
   - TEXTFORM (text-processing program on the MTS \[Michigan Terminal System\]
