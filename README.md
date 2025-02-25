@@ -76,7 +76,7 @@ career include the following:
 <p align="center">* * *</p>
 
 I have written code in the following programming languages (note: the category
-groupings below are not necessarily discrete or mutually exclusive, but the
+groupings below are not entirely discrete or mutually exclusive, but the
 categories do provide a useful framing device):
 
 - Compiled languages
