@@ -92,7 +92,7 @@ categories do provide a useful framing structure):
   - Java
   - Lisp (LISP; List Processing)
   - Pascal
-  - TUTOR (PLATO Author Language; programming language for use on the PLATO
+  - TUTOR (PLATO Author Language) (programming language for use on the PLATO
     \[Programmed Logic for Automatic Teaching Operations\] computer-assisted
     instruction system on the Digital Equipment Corporation VAX 11/785
     minicomputer at the Faculty of Education at the University of Alberta)
@@ -103,17 +103,18 @@ categories do provide a useful framing structure):
   - DOS/Windows batch file (COMMAND.COM and cmd.exe)
   - GW-BASIC (Microsoft's dialect of the BASIC programming language)
   - JavaScript (JS)
-  - Novell Script for NetWare (NSN)
+  - Novell Script for NetWare (NSN) (scripting language for use on the Novell
+    NetWare network operating system)
   - Perl (Practical Extraction and Reporting Language)
   - PHP (PHP: Hypertext Preprocessor)
   - PowerShell
   - Python
   - R
   - Ruby
-  - SAS (SAS language for use in the SAS \[Statistical Analysis System\]
-    statistical software suite)
+  - SAS (programming language for use in the SAS \[Statistical Analysis System
+    \] statistical software suite)
   - sed (stream editor)
-  - SPSS syntax (SPSS command syntax language for use in the SPSS \[Statistical
+  - SPSS syntax (command syntax language for use in the SPSS \[Statistical
     Package for the Social Sciences\] statistical software suite)
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
