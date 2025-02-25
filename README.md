@@ -74,9 +74,9 @@ career include the following:
 
 <p align="center">* * *</p>
 
-I have written code in the following programming languages (note: although the
-following category groupings are not entirely discrete nor necessarily mutually
-exclusive, the categories do provide a useful framing mechanism):
+I have written code in the following programming languages (note: the category
+groupings below are not necessarily discrete nor mutually exclusive, but the
+categories do provide a useful framing mechanism):
 
 - Compiled languages
   - ActionScript
