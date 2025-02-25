@@ -126,8 +126,8 @@ categories do provide a useful framing structure):
   - CQL (Contextual Query Language) (Library of Congress's CQL query using the
     SRU \[Search/Retrieve via URL\] protocol)
   - jq (JSON query) (jq is a filter similar to sed for JSON data)
-  - PQF (Prefix Query Format) / PQN (Prefix Query Notation) (Index Data's
-    Z39.50 type-1 query using the Z39.50 protocol)
+  - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's Z39.50
+    type-1 query using the Z39.50 protocol)
   - SPARQL (SPARQL Protocol and RDF Query Language)
   - SQL (Structured Query Language)
 
