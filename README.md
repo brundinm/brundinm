@@ -145,9 +145,10 @@ categories do provide a useful framing device):
     and the uppercase Greek letters tau, epsilon, and chi)
   - SGML (Standard Generalized Markup Language)
   - TEI (Text Encoding Initiative)
-  - TEXTFORM (text-processing program on the MTS \[Michigan Terminal System\]
-    time-sharing computer operating system on the IBM System/370-compatible
-    Amdahl 580/5860 mainframe computer at the University of Alberta)
+  - TEXTFORM (text-processing language and program on the MTS \[Michigan
+    Terminal System\] time-sharing computer operating system on the IBM
+    System/370-compatible Amdahl 580/5860 mainframe computer at the University
+    of Alberta)
   - XML (Extensible Markup Language)
 
 - Style sheet languages
