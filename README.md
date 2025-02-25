@@ -136,8 +136,8 @@ categories do provide a useful framing structure):
   - SVG (Scalable Vector Graphics)
   - XHTML (Extensible Hypertext Markup Language)
   - XPath (XML Path Language)
-  - XProc (XProc: An XML Pipeline Language)
-  - XQuery (XML Query)
+  - XProc (XML Pipeline Language)
+  - XQuery (XML Query Language)
   - XSD (XML Schema Definition)
   - XSLT (Extensible Stylesheet Language Transformations)
 
