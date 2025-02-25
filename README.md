@@ -12,7 +12,8 @@ Canada T5J 4S2
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
 at MacEwan University, which is <a href="https://www.openstreetmap.org/?mlat=53.54699&mlon=-113.50576#map=15/53.54699/-113.50576" rel="nofollow">located</a>
-in Edmonton, Alberta, Canada.  In my career I have worked at The Alberta Library, Edmonton Public Library, MacEwan University (John L. Haar Library, or
+in Edmonton, Alberta, Canada.  In my career I have worked at The Alberta
+Library, Edmonton Public Library, MacEwan University (John L. Haar Library, or
 MacEwan University Library), Northern Alberta Institute of Technology (McNally
 Library, or NAIT Library), University of Alberta (Department of English and
 Film Studies, School of Library and Information Studies, and University of
@@ -77,7 +78,7 @@ career include the following:
 
 I have written code in the following programming languages (note: the category
 groupings below are not entirely discrete or mutually exclusive, but the
-categories do provide a useful framing device):
+categories do provide a useful framing structure):
 
 - Compiled languages
   - ActionScript
