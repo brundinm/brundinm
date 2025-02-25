@@ -11,7 +11,7 @@ Canada T5J 4S2
 ```
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
-at MacEwan University, which is <a href="https://www.openstreetmap.org/?mlat=53.54699&mlon=-113.50576#map=15/53.54699/-113.50576">located</a>
+at MacEwan University, which is <a href="https://www.openstreetmap.org/?mlat=53.54699&mlon=-113.50576#map=15/53.54699/-113.50576" rel="nofollow">located</a>
 in Edmonton, Alberta, Canada.  In my career I have worked at The Alberta Library, Edmonton Public Library, MacEwan University (John L. Haar Library, or
 MacEwan University Library), Northern Alberta Institute of Technology (McNally
 Library, or NAIT Library), University of Alberta (Department of English and
@@ -33,7 +33,8 @@ career include the following:
   (Canadian Writing Research Collaboratory) Islandora repository at the
   University of Alberta, including developing the CWRC-hosted Royal Society of
   Canada’s (RSC) Expert Panel on The Status and Future of Canada’s Libraries
-  and Archives mapping and timeline application.
+  and Archives mapping and timeline application of the libraries and archives
+  of Canada.
 - Designed and developed a GIS application for the Edmonton Public Library to
   serve as the repository for community profiles, and to facilitate the
   identification of branch library resource, program, and service needs.
@@ -75,8 +76,8 @@ career include the following:
 <p align="center">* * *</p>
 
 I have written code in the following programming languages (note: the category
-groupings below are not necessarily discrete nor mutually exclusive, but the
-categories do provide a useful framing mechanism):
+groupings below are not necessarily discrete or mutually exclusive, but the
+categories do provide a useful framing device):
 
 - Compiled languages
   - ActionScript
@@ -108,9 +109,11 @@ categories do provide a useful framing mechanism):
   - Python
   - R
   - Ruby
-  - SAS
+  - SAS (SAS language for use in the SAS \[Statistical Analysis System\]
+    statistical software suite)
   - sed (stream editor)
-  - SPSS syntax
+  - SPSS syntax (SPSS command syntax language for use in the SPSS \[Statistical
+    Package for the Social Sciences\] statistical software suite)
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
   - VBScript (Visual Basic Scripting Edition)
