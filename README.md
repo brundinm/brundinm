@@ -11,7 +11,7 @@ Canada T5J 4S2
 ```
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
-at MacEwan University, which is <a href="https://www.openstreetmap.org/?mlat=53.54699&mlon=-113.50576#map=15/53.54699/-113.50576" rel="nofollow">located</a>
+at MacEwan University, which is <a href="https://www.openstreetmap.org/?mlat=53.547222&mlon=-113.505#map=15/53.547222/-113.505" rel="nofollow">located</a>
 in Edmonton, Alberta, Canada.  In my career I have worked at The Alberta
 Library, Edmonton Public Library, MacEwan University (John L. Haar Library, or
 MacEwan University Library), Northern Alberta Institute of Technology (McNally
