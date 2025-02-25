@@ -138,7 +138,7 @@ categories do provide a useful framing mechanism):
 
 - Markup languages
   - HTML (Hypertext Markup Language)
-  - LaTeX (L<sup>A</sup>T<sub>E</sub>X; Lamport \[LaTeX author's last name\],
+  - LaTeX (L<sup font-size:0.85em;vertical-align:0.15em>A</sup>T<sub>E</sub>X; Lamport \[LaTeX author's last name\],
     and the uppercase Greek letters tau, epsilon, and chi)
   - SGML (Standard Generalized Markup Language)
   - TEI (Text Encoding Initiative)
