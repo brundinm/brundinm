@@ -175,20 +175,6 @@ the listed programming languages:
   - CSS (Cascading Style Sheets)
   - DSSSL (Document Style Semantics and Specification Language)
 
-- Resource Description Framework (RDF) (directed graph data composed of triple
-  statements)
-  - Ontology languages
-    - RDF Schema (RDFS)
-    - Shapes Constraint Language (SHACL)
-    - Web Ontology Language (OWL)
-  - Serialization formats
-    - JSON-LD (JavaScript Object Notation for Linked Data)
-    - RDF/XML
-    - Turtle (Terse RDF Triple Language)  
-
-- Blah
-  - blah
-
 <p align="center"><span>* * *</span></p>
 
 The code and files in the repositories below are from different digital
