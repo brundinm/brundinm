@@ -76,9 +76,8 @@ career include the following:
 
 <p align="center">* * *</p>
 
-I have written code in the following programming languages (note: the category
-groupings below are not entirely discrete or mutually exclusive, but the
-categories do provide a useful framing structure):
+I have used the following computer languages, including writing code for all of
+the listed programming languages:
 
 - Compiled languages
   - ActionScript
@@ -125,32 +124,45 @@ categories do provide a useful framing structure):
     retrieval in OPACs and databases)
   - CQL (Contextual Query Language) (Library of Congress's CQL query using the
     SRU \[Search/Retrieve via URL\] protocol)
+  - iTQL (native query language of the Mulgara triplestore \[database of RDF
+    triples\])  
   - jq (JSON query) (jq is a filter similar to sed for JSON data)
   - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's Z39.50
     type-1 query using the Z39.50 protocol)
   - SPARQL (SPARQL Protocol and RDF Query Language)
   - SQL (Structured Query Language)
 
-- XML-based languages
-  - RELAX NG (Regular Language for XML Next Generation)
+- XML transformation languages
   - XPath (XML Path Language)
   - XProc (XML Pipeline Language)
   - XQuery (XML Query Language)
-  - XSD (XML Schema Definition)
   - XSLT (Extensible Stylesheet Language Transformations)
 
-- Markup languages
+- XML schema languages
+  - RELAX NG (Regular Language for XML Next Generation)
+  - XML DTD (XML Document Type Definition)
+  - XSD (XML Schema Definition)
+
+- XML schemas for metadata standards
+  - Dublin Core (DCMT; Dublin Core Metadata Terms)
   - EAD (Encoded Archival Description)
+  - MADS (Metadata Authority Description Schema)
+  - MARCXML (Machine-Readable Cataloging XML)
+  - METS (Metadata Encoding and Transmission Standard)
+  - MODS (Metadata Object Description Schema)
+  - PREMIS (Preservation Metadata: Implementation Strategies)
+
+- Markup metalanguages
+  - SGML (Standard Generalized Markup Language)
+  - XML (Extensible Markup Language)
+
+- Markup languages
   - GML (Geography Markup Language)
   - HTML (Hypertext Markup Language)
   - KML (Keyhole Markup Language)
   - LaTeX (L<sup>A</sup>T<sub>E</sub>X; Lamport \[LaTeX author's last name\],
     and the uppercase Greek letters tau, epsilon, and chi \[&Tau;, &Epsilon;,
     &Chi;\])
-  - MADS (Metadata Authority Description Schema)
-  - MARCXML (Machine-Readable Cataloging XML)
-  - MODS (Metadata Object Description Schema)
-  - SGML (Standard Generalized Markup Language)
   - SVG (Scalable Vector Graphics)
   - TEI (Text Encoding Initiative)
   - TEXTFORM (text-processing language and program for use on the MTS
@@ -158,11 +170,21 @@ categories do provide a useful framing structure):
     IBM System/370-compatible Amdahl 580/5860 mainframe computer at the
     University of Alberta)
   - XHTML (Extensible Hypertext Markup Language)
-  - XML (Extensible Markup Language)
 
 - Style sheet languages
   - CSS (Cascading Style Sheets)
   - DSSSL (Document Style Semantics and Specification Language)
+
+- Resource Description Framework (RDF) (directed graph data composed of triple
+  statements)
+  - Ontology languages
+    - RDF Schema (RDFS)
+    - Shapes Constraint Language (SHACL)
+    - Web Ontology Language (OWL)
+  - Serialization formats
+    - JSON-LD (JavaScript Object Notation for Linked Data)
+    - RDF/XML
+    - Turtle (Terse RDF Triple Language)  
 
 <p align="center"><span>* * *</span></p>
 
