@@ -122,6 +122,9 @@ I have used the following computer languages, including writing code using the p
     retrieval in OPACs and databases)
   - CQL (Contextual Query Language) (Library of Congress's CQL query using the
     SRU &#91;Search/Retrieve via URL&#91; protocol)
+  - DIALOG (command language of the DIALOG system, an online search system
+    provided as a subscription service by Dialog Information Retrieval
+    Services)
   - iTQL (native query language of the Mulgara triplestore &#91;database of RDF
     triples&#93;)
   - jq (JSON query) (jq is a filter similar to sed for JSON data)
