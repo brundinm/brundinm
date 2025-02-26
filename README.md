@@ -96,8 +96,7 @@ the listed programming languages:
     computer-assisted instruction system on the Digital Equipment Corporation
     VAX 11/785 minicomputer at the Faculty of Education at the University of
     Alberta)
-  - Visual Basic (VB classic and VB.NET)
-   
+  - Visual Basic (VB classic and VB.NET)<br><br>
 - Interpreted (or scripting) languages
   - AWK (Aho, Weinberger, and Kernighan &#91;AWK authors' last names&#93;)
   - DOS/Windows batch file (COMMAND.COM and cmd.exe)
@@ -118,7 +117,7 @@ the listed programming languages:
     Package for the Social Sciences&#93; statistical software suite)
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
-  - VBScript (Visual Basic Scripting Edition)
+  - VBScript (Visual Basic Scripting Edition)<br><br>
 - Query languages
   - CCL (Common Command Language) (Z38.58 ANSI/NISO standard for information
     retrieval in OPACs and databases)
@@ -130,16 +129,16 @@ the listed programming languages:
   - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's Z39.50
     type-1 query using the Z39.50 protocol)
   - SPARQL (SPARQL Protocol and RDF Query Language)
-  - SQL (Structured Query Language)
+  - SQL (Structured Query Language)<br><br>
 - XML transformation languages
   - XPath (XML Path Language)
   - XProc (XML Pipeline Language)
   - XQuery (XML Query Language)
-  - XSLT (Extensible Stylesheet Language Transformations)
+  - XSLT (Extensible Stylesheet Language Transformations)<br><br>
 - XML schema languages
   - RELAX NG (Regular Language for XML Next Generation)
   - XML DTD (XML Document Type Definition)
-  - XSD (XML Schema Definition)
+  - XSD (XML Schema Definition)<br><br>
 - XML schemas for metadata standards
   - Dublin Core (DCMT; Dublin Core Metadata Terms)
   - EAD (Encoded Archival Description)
@@ -147,10 +146,10 @@ the listed programming languages:
   - MARCXML (Machine-Readable Cataloging XML)
   - METS (Metadata Encoding and Transmission Standard)
   - MODS (Metadata Object Description Schema)
-  - PREMIS (Preservation Metadata: Implementation Strategies)
+  - PREMIS (Preservation Metadata: Implementation Strategies)<br><br>
 - Markup metalanguages
   - SGML (Standard Generalized Markup Language)
-  - XML (Extensible Markup Language)
+  - XML (Extensible Markup Language)<br><br>
 - Markup languages
   - GML (Geography Markup Language)
   - HTML (Hypertext Markup Language)
@@ -164,10 +163,10 @@ the listed programming languages:
     &#91;Michigan Terminal System&#93; time-sharing computer operating system
     on the IBM System/370-compatible Amdahl 580/5860 mainframe computer at the
     University of Alberta)
-  - XHTML (Extensible Hypertext Markup Language)
+  - XHTML (Extensible Hypertext Markup Language)<br><br>
 - Style sheet languages
   - CSS (Cascading Style Sheets)
-  - DSSSL (Document Style Semantics and Specification Language)
+  - DSSSL (Document Style Semantics and Specification Language)<br><br>
 - Resource Description Framework (RDF) (directed graph data composed of triple
   statements)
   - Ontology languages
