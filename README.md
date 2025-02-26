@@ -96,7 +96,8 @@ the listed programming languages:
     computer-assisted instruction system on the Digital Equipment Corporation
     VAX 11/785 minicomputer at the Faculty of Education at the University of
     Alberta)
-  - Visual Basic (VB classic and VB.NET)<br><br>
+  - Visual Basic (VB classic and VB.NET)
+   
 - Interpreted (or scripting) languages
   - AWK (Aho, Weinberger, and Kernighan &#91;AWK authors' last names&#93;)
   - DOS/Windows batch file (COMMAND.COM and cmd.exe)
