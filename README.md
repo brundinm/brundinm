@@ -153,8 +153,8 @@ the listed programming languages:
   - PREMIS (Preservation Metadata: Implementation Strategies)
 
 - Markup metalanguages
-   - SGML (Standard Generalized Markup Language)
-   - XML (Extensible Markup Language)
+  - SGML (Standard Generalized Markup Language)
+  - XML (Extensible Markup Language)
 
 - Markup languages
   - GML (Geography Markup Language)
