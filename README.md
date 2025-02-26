@@ -76,7 +76,8 @@ career include the following:
 
 <p align="center">* * *</p>
 
-I have used the following computer languages, including writing code using the programming languages (the compiled and interpreted languages):
+I have used the following computer languages, including writing code using the programming languages (e.g., the compiled and interpreted languages, XSLT,
+etc.):
 
 - Compiled languages
   - ActionScript
