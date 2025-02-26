@@ -79,7 +79,7 @@ career include the following:
 I have used the following computer languages, including writing code for all of
 the listed programming languages:
 
-- Compiled languages
+-Compiled languages
   - ActionScript
   - ALGOL W (Algorithmic Language)
   - BASIC (Beginners' All-Purpose Symbolic Instruction Code)
