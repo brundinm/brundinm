@@ -79,7 +79,7 @@ career include the following:
 I have used the following computer languages, including writing code for all of
 the listed programming languages:
 
--Compiled languages
+- Compiled languages
   - ActionScript
   - ALGOL W (Algorithmic Language)
   - BASIC (Beginners' All-Purpose Symbolic Instruction Code)
@@ -97,7 +97,6 @@ the listed programming languages:
     VAX 11/785 minicomputer at the Faculty of Education at the University of
     Alberta)
   - Visual Basic (VB classic and VB.NET)
-
 - Interpreted (or scripting) languages
   - AWK (Aho, Weinberger, and Kernighan &#91;AWK authors' last names&#93;)
   - DOS/Windows batch file (COMMAND.COM and cmd.exe)
@@ -119,7 +118,6 @@ the listed programming languages:
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
   - VBScript (Visual Basic Scripting Edition)
-
 - Query languages
   - CCL (Common Command Language) (Z38.58 ANSI/NISO standard for information
     retrieval in OPACs and databases)
@@ -132,18 +130,15 @@ the listed programming languages:
     type-1 query using the Z39.50 protocol)
   - SPARQL (SPARQL Protocol and RDF Query Language)
   - SQL (Structured Query Language)
-
 - XML transformation languages
   - XPath (XML Path Language)
   - XProc (XML Pipeline Language)
   - XQuery (XML Query Language)
   - XSLT (Extensible Stylesheet Language Transformations)
-
 - XML schema languages
   - RELAX NG (Regular Language for XML Next Generation)
   - XML DTD (XML Document Type Definition)
   - XSD (XML Schema Definition)
-
 - XML schemas for metadata standards
   - Dublin Core (DCMT; Dublin Core Metadata Terms)
   - EAD (Encoded Archival Description)
@@ -152,11 +147,9 @@ the listed programming languages:
   - METS (Metadata Encoding and Transmission Standard)
   - MODS (Metadata Object Description Schema)
   - PREMIS (Preservation Metadata: Implementation Strategies)
-
 - Markup metalanguages
   - SGML (Standard Generalized Markup Language)
   - XML (Extensible Markup Language)
-
 - Markup languages
   - GML (Geography Markup Language)
   - HTML (Hypertext Markup Language)
@@ -171,11 +164,9 @@ the listed programming languages:
     on the IBM System/370-compatible Amdahl 580/5860 mainframe computer at the
     University of Alberta)
   - XHTML (Extensible Hypertext Markup Language)
-
 - Style sheet languages
   - CSS (Cascading Style Sheets)
   - DSSSL (Document Style Semantics and Specification Language)
-
 - Resource Description Framework (RDF) (directed graph data composed of triple
   statements)
   - Ontology languages
