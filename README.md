@@ -145,7 +145,8 @@ I have used the following computer languages, including writing code using the p
   - MARCXML (Machine-Readable Cataloging XML)
   - METS (Metadata Encoding and Transmission Standard)
   - MODS (Metadata Object Description Schema)
-  - PREMIS (Preservation Metadata: Implementation Strategies)<br><br>
+  - PREMIS (Preservation Metadata: Implementation Strategies)
+  - TextMD (Technical Metadata for Text)<br><br>
 - Markup metalanguages
   - SGML (Standard Generalized Markup Language)
   - XML (Extensible Markup Language)<br><br>
@@ -175,6 +176,7 @@ I have used the following computer languages, including writing code using the p
   - Serialization formats
     - JSON-LD (JavaScript Object Notation for Linked Data)
     - RDF/XML
+    - RDFa (Resource Description Framework in Attributes)
     - Turtle (Terse RDF Triple Language)  
 
 <p align="center"><span>* * *</span></p>
