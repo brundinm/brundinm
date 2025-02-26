@@ -144,7 +144,8 @@ categories do provide a useful framing structure):
 - Markup languages
   - HTML (Hypertext Markup Language)
   - LaTeX (L<sup>A</sup>T<sub>E</sub>X; Lamport \[LaTeX author's last name\],
-    and the uppercase Greek letters tau, epsilon, and chi)
+    and the uppercase Greek letters tau, epsilon, and chi \[&Tau;, &Epsilon;,
+    &Chi;\])
   - SGML (Standard Generalized Markup Language)
   - TEI (Text Encoding Initiative)
   - TEXTFORM (text-processing language and program for use on the MTS
