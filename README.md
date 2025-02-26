@@ -133,8 +133,6 @@ categories do provide a useful framing structure):
 
 - XML-based languages
   - RELAX NG (Regular Language for XML Next Generation)
-  - SVG (Scalable Vector Graphics)
-  - XHTML (Extensible Hypertext Markup Language)
   - XPath (XML Path Language)
   - XProc (XML Pipeline Language)
   - XQuery (XML Query Language)
@@ -142,20 +140,29 @@ categories do provide a useful framing structure):
   - XSLT (Extensible Stylesheet Language Transformations)
 
 - Markup languages
+  - EAD (Encoded Archival Description)
+  - GML (Geography Markup Language)
   - HTML (Hypertext Markup Language)
+  - KML (Keyhole Markup Language)
   - LaTeX (L<sup>A</sup>T<sub>E</sub>X; Lamport \[LaTeX author's last name\],
     and the uppercase Greek letters tau, epsilon, and chi \[&Tau;, &Epsilon;,
     &Chi;\])
+  - MADS (Metadata Authority Description Schema)
+  - MARCXML (Machine-Readable Cataloging XML)
+  - MODS (Metadata Object Description Schema)
   - SGML (Standard Generalized Markup Language)
+  - SVG (Scalable Vector Graphics)
   - TEI (Text Encoding Initiative)
   - TEXTFORM (text-processing language and program for use on the MTS
     \[Michigan Terminal System\] time-sharing computer operating system on the
     IBM System/370-compatible Amdahl 580/5860 mainframe computer at the
     University of Alberta)
+  - XHTML (Extensible Hypertext Markup Language)
   - XML (Extensible Markup Language)
 
 - Style sheet languages
   - CSS (Cascading Style Sheets)
+  - DSSSL (Document Style Semantics and Specification Language)
 
 <p align="center"><span>* * *</span></p>
 
