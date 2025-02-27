@@ -146,6 +146,7 @@ XSLT, etc.):
   - XML DTD (XML Document Type Definition)
   - XSD (XML Schema Definition)<br><br>
 - XML schemas for metadata standards
+  - BIBFRAME (Bibliographic Framework)
   - Dublin Core (DCMT; Dublin Core Metadata Terms)
   - EAD (Encoded Archival Description)
   - MADS (Metadata Authority Description Schema)
