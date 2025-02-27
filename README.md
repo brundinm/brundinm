@@ -130,8 +130,8 @@ XSLT, etc.):
   - DIALOG (command language of the DIALOG system, an online search system
     provided as a subscription service of Dialog Information Retrieval
     Services)
-  - iTQL (native RDF query language of the Mulgara triplestore &#91;database of
-    RDF triples&#93;)
+  - iTQL (RDF query language of the Mulgara triplestore &#91;database of RDF
+    triples&#93;)
   - jq (JSON query) (jq is a filter similar to sed for JSON data)
   - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's Z39.50
     type-1 query using the Z39.50 protocol)
