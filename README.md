@@ -146,7 +146,7 @@ XSLT, etc.):
   - XML DTD (XML Document Type Definition)
   - XSD (XML Schema Definition)<br><br>
 - XML schemas for metadata standards
-  - BIBFRAME (Bibliographic Framework)
+  - BIBFRAME RDF/XML (Bibliographic Framework RDF/XML)
   - Dublin Core (DCMT; Dublin Core Metadata Terms)
   - EAD (Encoded Archival Description)
   - MADS (Metadata Authority Description Schema)
@@ -183,7 +183,7 @@ XSLT, etc.):
     - Web Ontology Language (OWL)
   - Serialization formats
     - JSON-LD (JavaScript Object Notation for Linked Data)
-    - RDF/XML
+    - RDF/XML (Resource Description Framework / Extensible Markup Language)
     - RDFa (Resource Description Framework in Attributes)
     - Turtle (Terse RDF Triple Language)  
 
