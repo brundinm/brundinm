@@ -110,10 +110,10 @@ XSLT, etc.):
   - Python
   - R
   - Ruby
-  - SAS (programming language in the SAS &#91;Statistical Analysis System&#93;
+  - SAS (programming language of the SAS &#91;Statistical Analysis System&#93;
     statistical software suite)
   - sed (stream editor)
-  - SPSS syntax (command syntax language in the SPSS &#91;Statistical Package
+  - SPSS syntax (command syntax language of the SPSS &#91;Statistical Package
     for the Social Sciences&#93; statistical software suite)
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
