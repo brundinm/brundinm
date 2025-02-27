@@ -71,8 +71,8 @@ career include the following:
 - Designed and created a Microsoft Access and VBA bindery database application
   to automate the bindery process at the University of Alberta Libraries.
 - Developed an experimental web-based library catalog for a reference book
-  collection utilizing Perl CGI scripts and SSI directives at the School of
-  Library and Information Studies, University of Alberta.
+  collection using Perl CGI scripts and SSI directives at the School of Library
+  and Information Studies, University of Alberta.
 
 <p align="center">* * *</p>
 
