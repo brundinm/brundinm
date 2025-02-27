@@ -79,7 +79,8 @@ career include the following:
 
 <p align="center">* * *</p>
 
-I have used the following computer languages, including writing code using the subset of listed programming languages (the compiled and interpreted languages,
+I have used the following computer languages, including writing code using the
+subset of listed programming languages (the compiled and interpreted languages,
 XSLT, etc.):
 
 - Compiled languages
@@ -129,7 +130,7 @@ XSLT, etc.):
   - DIALOG (command language of the DIALOG system, an online search system
     provided as a subscription service of Dialog Information Retrieval
     Services)
-  - iTQL (native query language of the Mulgara triplestore &#91;database of
+  - iTQL (native RDF query language of the Mulgara triplestore &#91;database of
     RDF triples&#93;)
   - jq (JSON query) (jq is a filter similar to sed for JSON data)
   - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's Z39.50
