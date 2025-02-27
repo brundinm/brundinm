@@ -30,6 +30,8 @@ career include the following:
 - Developed numerous scripts to facilitate data processing and data
   transformation operations on data exported from, and imported to, various
   MacEwan University Library information systems.
+- Developed scripts, wrote documentation, and generated reports as part of
+  MacEwan University Library's MARC records editing operations.
 - Developed and enhanced various systems and software applications in the CWRC
   (Canadian Writing Research Collaboratory) Islandora repository at the
   University of Alberta, including developing the CWRC-hosted Royal Society of
