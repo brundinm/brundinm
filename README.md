@@ -91,7 +91,7 @@ XSLT, etc.):
   - Java
   - Lisp (LISP; List Processing)
   - Pascal
-  - TUTOR (PLATO Author Language) (programming language for use on the PLATO
+  - TUTOR (PLATO Author Language) (programming language of the PLATO
     &#91;Programmed Logic for Automatic Teaching Operations&#93;
     computer-assisted instruction system on the Digital Equipment Corporation
     VAX 11/785 minicomputer at the Faculty of Education at the University of
@@ -102,19 +102,19 @@ XSLT, etc.):
   - DOS/Windows batch file (COMMAND.COM and cmd.exe)
   - GW-BASIC (Microsoft's dialect of the BASIC programming language)
   - JavaScript (JS)
-  - Novell Script for NetWare (NSN) (scripting language for use on the Novell
-    NetWare network operating system)
+  - Novell Script for NetWare (NSN) (scripting language on the Novell NetWare
+    network operating system)
   - Perl (Practical Extraction and Reporting Language)
   - PHP (PHP: Hypertext Preprocessor)
   - PowerShell
   - Python
   - R
   - Ruby
-  - SAS (programming language for use in the SAS &#91;Statistical Analysis
-    System&#93; statistical software suite)
+  - SAS (programming language in the SAS &#91;Statistical Analysis System&#93;
+    statistical software suite)
   - sed (stream editor)
-  - SPSS syntax (command syntax language for use in the SPSS &#91;Statistical
-    Package for the Social Sciences&#93; statistical software suite)
+  - SPSS syntax (command syntax language in the SPSS &#91;Statistical Package
+    for the Social Sciences&#93; statistical software suite)
   - Unix shell script (Bash, Bourne, C, Dash, Korn, TENEX C, Z, etc.)
   - VBA (Visual Basic for Applications)
   - VBScript (Visual Basic Scripting Edition)<br><br>
@@ -124,10 +124,10 @@ XSLT, etc.):
   - CQL (Contextual Query Language) (Library of Congress's CQL query using the
     SRU &#91;Search/Retrieve via URL&#91; protocol)
   - DIALOG (command language of the DIALOG system, an online search system
-    provided as a subscription service by Dialog Information Retrieval
+    provided as a subscription service of Dialog Information Retrieval
     Services)
-  - iTQL (native query language of the Mulgara triplestore &#91;database of RDF
-    triples&#93;)
+  - iTQL (native query language of the Mulgara triplestore &#91;database of
+    RDF triples&#93;)
   - jq (JSON query) (jq is a filter similar to sed for JSON data)
   - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's Z39.50
     type-1 query using the Z39.50 protocol)
@@ -163,10 +163,10 @@ XSLT, etc.):
     &#91;&Tau;, &Epsilon;, &Chi;&#93;)
   - SVG (Scalable Vector Graphics)
   - TEI (Text Encoding Initiative)
-  - TEXTFORM (text-processing language and program for use on the MTS
-    &#91;Michigan Terminal System&#93; time-sharing computer operating system
-    on the IBM System/370-compatible Amdahl 580/5860 mainframe computer at the
-    University of Alberta)
+  - TEXTFORM (text-processing language and program on the MTS &#91;Michigan
+    Terminal System&#93; time-sharing computer operating system on the IBM
+    System/370-compatible Amdahl 580/5860 mainframe computer at the University
+    of Alberta)
   - XHTML (Extensible Hypertext Markup Language)<br><br>
 - Style sheet languages
   - CSS (Cascading Style Sheets)
