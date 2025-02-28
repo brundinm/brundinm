@@ -195,9 +195,9 @@ SQL, XSLT, etc.):
 - Resource Description Framework (RDF) (directed graph data composed of triple
   statements)
   - Ontology languages
-    - RDF Schema (RDFS)
-    - Shapes Constraint Language (SHACL)
-    - Web Ontology Language (OWL)
+    - OWL (Web Ontology Language)
+    - RDFS (Resource Description Framework Schema)
+    - SHACL (Shapes Constraint Language)
   - Serialization formats
     - JSON-LD (JavaScript Object Notation for Linked Data)
     - RDF/XML (Resource Description Framework / Extensible Markup Language)
