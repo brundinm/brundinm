@@ -142,9 +142,9 @@ XSLT, etc.):
   - CCL (Common Command Language) (Z38.58 ANSI/NISO standard for information
     retrieval in OPACs and databases)
   - CQL (Contextual Query Language) (Library of Congress's CQL query using the
-    SRU &#91;Search/Retrieve via URL&#91; protocol)
+    SRU &#91;Search/Retrieve via URL&#93; protocol)
   - DIALOG (command language of the DIALOG system, an online search system
-    provided as a subscription service of Dialog Information Retrieval
+    provided as a subscription service from Dialog Information Retrieval
     Services)
   - iTQL (RDF query language of the Mulgara triplestore &#91;database of RDF
     triples&#93;)
