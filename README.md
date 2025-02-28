@@ -34,8 +34,8 @@ career include the following:
   University Library's MARC records editing operations that were performed when
   the Library migrated to a new library services platform.  The programming
   languages used were AWK, Bash (shell), Perl, Python, sed, and XSLT, and the
-  MARC formats the scripts operated on were MARC mnemonic text records, MARCXML
-  records, and MARC 21 binary records.
+  MARC formats the scripts operated on were MARC 21 binary records, MARCXML
+  and TurboMARC XML records, and MARC mnemonic text records.
 - Developed and enhanced various systems and software applications in the CWRC
   (Canadian Writing Research Collaboratory) Islandora repository at the
   University of Alberta, including developing the CWRC-hosted Royal Society of
@@ -85,12 +85,12 @@ career include the following:
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta.  Library catalog features
-  included field-specific searching (title, author, or subject), Boolean
-  operator applied searching (AND, or OR), and string phrase searching; an
-  experimental search interface to facilitate subject searching of the catalog
-  by using a thesaurus of hyperlinked subject terms; and logging of both
-  catalog web page visits as well as catalog search queries was implemented,
-  thus making possible user activity analyses and transaction log analyses.
+  included field-specific searching (title, author, subject), Boolean operator
+  applied searching (AND, OR), and string phrase searching; an experimental
+  search interface to facilitate subject searching of the catalog by using a
+  thesaurus of hyperlinked subject terms; and logging of both catalog web page
+  visits as well as catalog search queries was implemented, thus making
+  possible user activity analyses and transaction log analyses.
 
 <p align="center">* * *</p>
 
