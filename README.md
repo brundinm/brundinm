@@ -164,7 +164,7 @@ SQL, XSLT, etc.):
   - XSD (XML Schema Definition)<br><br>
 - XML schemas for metadata standards
   - BIBFRAME RDF/XML (Bibliographic Framework RDF/XML)
-  - Dublin Core (DCMT; Dublin Core Metadata Terms)
+  - DCMI Metadata Terms (Dublin Core Metadata Initiative Metadata Terms)
   - EAD (Encoded Archival Description)
   - MADS (Metadata Authority Description Schema)
   - MARCXML (Machine-Readable Cataloging XML)
