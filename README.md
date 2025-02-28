@@ -75,9 +75,9 @@ career include the following:
   Library providing unified access to the catalogs of hundreds of libraries
   across Alberta (academic, public, and special libraries).  In 2002, the TAL
   Online team was awarded the LibraryNet Best Practices Award by Industry
-  Canada and LibraryNet for innovation in a library communication and technology
-  project, and features that I had developed in TAL Online were mentioned in
-  the announcement of the award.
+  Canada and LibraryNet for innovation in a library communication and
+  technology project, and features that I had developed in TAL Online were
+  mentioned in the announcement of the award.
 - Designed and created a Microsoft Access and VBA bindery database application
   to automate the bindery process at the University of Alberta Libraries.  The
   University of Alberta Libraries Bindery Database was implemented in December
@@ -89,15 +89,15 @@ career include the following:
   operator applied searching (AND, OR), and string phrase searching (exact
   query phrase); an experimental search interface to facilitate subject
   searching of the catalog by using a thesaurus of hyperlinked subject terms;
-  and logging of both catalog web page visits as well as catalog search queries
-  was implemented, thus making possible user activity analyses and transaction
-  log analyses.
+  and logging of both catalog web page visits as well as catalog search
+  queries, thus making possible user activity analyses and transaction log
+  analyses.
 
 <p align="center">* * *</p>
 
 I have used the following computer languages, including writing code using the
 subset of listed programming languages (the compiled and interpreted languages,
-XSLT, etc.):
+SQL, XSLT, etc.):
 
 - Compiled languages
   - ActionScript
