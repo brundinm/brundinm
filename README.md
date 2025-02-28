@@ -86,11 +86,12 @@ career include the following:
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta.  Library catalog features
   included field-specific searching (title, author, subject), Boolean operator
-  applied searching (AND, OR), and string phrase searching; an experimental
-  search interface to facilitate subject searching of the catalog by using a
-  thesaurus of hyperlinked subject terms; and logging of both catalog web page
-  visits as well as catalog search queries was implemented, thus making
-  possible user activity analyses and transaction log analyses.
+  applied searching (AND, OR), and string phrase searching (exact query
+  phrase); an experimental search interface to facilitate subject searching of
+  the catalog by using a thesaurus of hyperlinked subject terms; and logging of
+  both catalog web page visits as well as catalog search queries was
+  implemented, thus making possible user activity analyses and transaction log
+  analyses.
 
 <p align="center">* * *</p>
 
