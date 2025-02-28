@@ -73,9 +73,15 @@ career include the following:
   Java-based bibliographic search tool TAL Online (using OCLC’s SiteSearch set
   of tools), a province-wide virtual union catalog maintained by The Alberta
   Library providing unified access to the catalogs of hundreds of libraries
-  across Alberta (academic, public, and special libraries).
+  across Alberta (academic, public, and special libraries).  In 2002, the TAL
+  Online team was awarded the LibraryNet Best Practices Award by Industry
+  Canada and LibaryNet for innovation in a library communication and technology
+  project, and features that I had developed in TAL Online were mentioned in
+  the announcement of the award.
 - Designed and created a Microsoft Access and VBA bindery database application
-  to automate the bindery process at the University of Alberta Libraries.
+  to automate the bindery process at the University of Alberta Libraries.  The
+  University of Alberta Libraries Bindery Database was implemented in December
+  1997, and it is still in production 27 years later!
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta.  Library catalog features
