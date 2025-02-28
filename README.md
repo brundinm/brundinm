@@ -75,7 +75,7 @@ career include the following:
   Library providing unified access to the catalogs of hundreds of libraries
   across Alberta (academic, public, and special libraries).  In 2002, the TAL
   Online team was awarded the LibraryNet Best Practices Award by Industry
-  Canada and LibaryNet for innovation in a library communication and technology
+  Canada and LibraryNet for innovation in a library communication and technology
   project, and features that I had developed in TAL Online were mentioned in
   the announcement of the award.
 - Designed and created a Microsoft Access and VBA bindery database application
