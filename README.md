@@ -84,14 +84,14 @@ career include the following:
   1997, and it is still in production 27 years later!
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
-  and Information Studies, University of Alberta.  Library catalog features
-  included field-specific searching (title, author, subject), Boolean operator
-  applied searching (AND, OR), and string phrase searching (exact query
-  phrase); an experimental search interface to facilitate subject searching of
-  the catalog by using a thesaurus of hyperlinked subject terms; and logging of
-  both catalog web page visits as well as catalog search queries was
-  implemented, thus making possible user activity analyses and transaction log
-  analyses.
+  and Information Studies, University of Alberta.  Reference collection catalog
+  features included field-specific searching (title, author, subject), Boolean
+  operator applied searching (AND, OR), and string phrase searching (exact
+  query phrase); an experimental search interface to facilitate subject
+  searching of the catalog by using a thesaurus of hyperlinked subject terms;
+  and logging of both catalog web page visits as well as catalog search queries
+  was implemented, thus making possible user activity analyses and transaction
+  log analyses.
 
 <p align="center">* * *</p>
 
