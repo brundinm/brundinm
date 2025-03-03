@@ -41,7 +41,7 @@ career include the following:
   University of Alberta, including developing the CWRC-hosted Royal Society of
   Canada’s (RSC) Expert Panel on The Status and Future of Canada’s Libraries
   and Archives mapping and timeline application of the libraries and archives
-  of Canada. (2013&ndash;2016.)
+  of Canada. (2013&ndash;2016).
 - Designed and developed a GIS application for the Edmonton Public Library to
   serve as the repository for community profiles, and to facilitate the
   identification of branch library resource, program, and service needs.
