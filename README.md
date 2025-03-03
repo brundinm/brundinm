@@ -191,7 +191,8 @@ SQL, XSLT, etc.):
   - XHTML (Extensible Hypertext Markup Language)<br><br>
 - Style sheet languages
   - CSS (Cascading Style Sheets)
-  - DSSSL (Document Style Semantics and Specification Language)<br><br>
+  - DSSSL (Document Style Semantics and Specification Language)
+  - SCSS (Sassy Cascading Style Sheets)<br><br>
 - Resource Description Framework (RDF) (directed graph data composed of triple
   statements)
   - Ontology languages
