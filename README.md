@@ -32,7 +32,7 @@ career include the following:
   the Library migrated to a new library services platform.  The programming
   languages used were AWK, Bash (shell), Perl, Python, sed, and XSLT, and the
   MARC formats the scripts operated on were MARC 21 binary records, MARCXML
-  and TurboMARC XML records, and MARC mnemonic text records. 2024.
+  and TurboMARC XML records, and MARC mnemonic text records. (2024)
 - Developed numerous scripts to facilitate data processing and data
   transformation operations on data exported from, and imported to, various
   MacEwan University Library information systems. (2016&ndash;present)
@@ -41,15 +41,16 @@ career include the following:
   University of Alberta, including developing the CWRC-hosted Royal Society of
   Canada’s (RSC) Expert Panel on The Status and Future of Canada’s Libraries
   and Archives mapping and timeline application of the libraries and archives
-  of Canada. (2013&ndash;2016).
+  of Canada. (2013&ndash;2016)
 - Designed and developed a GIS application for the Edmonton Public Library to
   serve as the repository for community profiles, and to facilitate the
-  identification of branch library resource, program, and service needs.
+  identification of branch library resource, program, and service needs. (2010)
 - Developed a Microsoft Excel and VBA spreadsheet application model that
   calculated Edmonton Public Library branch library productivity (units of
   activity per hour per FTE) using a weighted formula incorporating various
   library input measures (investments and resources) and output measures
   (activity and use) to aid in branch library resource allocation decisions.
+  (2011)
 - Designed and created an RDF/XML metadata web application featuring web
   resources related to Alzheimer’s disease that was an experimental online
   version of the traditional library vertical file, part of a larger research
