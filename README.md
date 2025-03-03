@@ -27,21 +27,21 @@ North Library, and Rutherford South Library\]), University of Calgary
 Some of the software applications that I have developed or contributed to in my
 career include the following:
 
-- Developed numerous scripts to facilitate data processing and data
-  transformation operations on data exported from, and imported to, various
-  MacEwan University Library information systems. (2016&ndash;present)
 - Developed scripts, wrote documentation, and generated reports for MacEwan
   University Library's MARC records editing operations that were performed when
   the Library migrated to a new library services platform.  The programming
   languages used were AWK, Bash (shell), Perl, Python, sed, and XSLT, and the
   MARC formats the scripts operated on were MARC 21 binary records, MARCXML
-  and TurboMARC XML records, and MARC mnemonic text records.
+  and TurboMARC XML records, and MARC mnemonic text records. 2024.
+- Developed numerous scripts to facilitate data processing and data
+  transformation operations on data exported from, and imported to, various
+  MacEwan University Library information systems. (2016&ndash;present)
 - Developed and enhanced various systems and software applications in the CWRC
   (Canadian Writing Research Collaboratory) Islandora repository at the
   University of Alberta, including developing the CWRC-hosted Royal Society of
   Canada’s (RSC) Expert Panel on The Status and Future of Canada’s Libraries
   and Archives mapping and timeline application of the libraries and archives
-  of Canada.
+  of Canada. (2013&ndash;2016.)
 - Designed and developed a GIS application for the Edmonton Public Library to
   serve as the repository for community profiles, and to facilitate the
   identification of branch library resource, program, and service needs.
