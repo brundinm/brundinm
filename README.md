@@ -44,23 +44,23 @@ career include the following:
   of Canada. (2013&ndash;2016)
 - Designed and developed a GIS application for the Edmonton Public Library to
   serve as the repository for community profiles, and to facilitate the
-  identification of branch library resource, program, and service needs. (2010)
+  identification of branch library resource, program, and service needs. (2011)
 - Developed a Microsoft Excel and VBA spreadsheet application model that
   calculated Edmonton Public Library branch library productivity (units of
   activity per hour per FTE) using a weighted formula incorporating various
   library input measures (investments and resources) and output measures
   (activity and use) to aid in branch library resource allocation decisions.
-  (2011)
+  (2010)
 - Designed and created an RDF/XML metadata web application featuring web
   resources related to Alzheimer’s disease that was an experimental online
   version of the traditional library vertical file, part of a larger research
   project at the University of Western Ontario comparing traditional library
   information systems and the emerging standards and protocols of the Semantic
-  Web.
+  Web. (2007)
 - Developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
   stack to provide the data collection instrument for a SSHRC-funded grant to
   investigate students’ use of instant messaging on the University of Western
-  Ontario campus.
+  Ontario campus. (2006&ndash;2007)
 - Designed and developed a digital resource repository application using a LAMP
   stack for the Canada-wide CAM (Complementary and Alternative Medicine) in UME
   (Undergraduate Medical Education) Project out of the University of Calgary.
@@ -70,6 +70,7 @@ career include the following:
   via hypertext linked controlled subject terms (descriptors) applied to
   describe the content of each resource; and a submission process so users
   could submit CAM-related resources for inclusion into the repository.
+  (2005&ndash;2010)
 - Developed extended services for, and resources integration within, the
   Java-based bibliographic search tool TAL Online (using OCLC’s SiteSearch set
   of tools), a province-wide virtual union catalog maintained by The Alberta
@@ -78,11 +79,11 @@ career include the following:
   Online team was awarded the LibraryNet Best Practices Award by Industry
   Canada and LibraryNet for innovation in a library communication and
   technology project, and features that I had developed in TAL Online were
-  mentioned in the announcement of the award.
+  mentioned in the announcement of the award. (2000&ndash;2002)
 - Designed and created a Microsoft Access and VBA bindery database application
   to automate the bindery process at the University of Alberta Libraries.  The
   University of Alberta Libraries Bindery Database was implemented in December
-  1997, and it is still in production 27 years later!
+  1997, and it is still in production 27 years later! (1997&ndash;2004)
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta.  Reference collection catalog
@@ -92,7 +93,7 @@ career include the following:
   searching of the catalog by using a thesaurus of hyperlinked subject terms;
   and logging of both catalog web page visits as well as catalog search
   queries, thus making possible user activity analyses and transaction log
-  analyses.
+  analyses. (1997&ndash;1998)
 
 <p align="center">* * *</p>
 
