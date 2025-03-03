@@ -207,5 +207,6 @@ SQL, XSLT, etc.):
 
 <p align="center"><span>* * *</span></p>
 
-The code and files in the repositories below are from different digital
-projects that I have worked on at MacEwan University.
+The code and files in the <a href="https://github.com/brundinm?tab=repositories&sort=name" rel="nofollow">repositories</a>
+below are from different digital projects that I have worked on at MacEwan
+University.
