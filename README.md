@@ -12,15 +12,15 @@ Canada T5J 4S2
 
 I am the Digital Services and Systems Librarian at MacEwan University Library
 at MacEwan University, which is <a href="https://www.openstreetmap.org/?mlat=53.547326&mlon=-113.505018#map=15/53.547326/-113.505018" rel="nofollow">located</a>
-in Edmonton, Alberta, Canada.  In my career I have worked at The Alberta
-Library, Edmonton Public Library, MacEwan University (John L. Haar Library, or
-MacEwan University Library), Northern Alberta Institute of Technology (McNally
-Library, or NAIT Library), University of Alberta (Department of English and
-Film Studies, School of Library and Information Studies, and University of
-Alberta Libraries \[Cameron Library, Rutherford North Library, and Rutherford
-South Library\]), University of Calgary (Department of Community Health
-Sciences), and University of Western Ontario (Faculty of Information and Media
-Studies).
+in Edmonton, Alberta, Canada.  In my career (1997&ndash;present)I have worked
+at The Alberta Library, Edmonton Public Library, MacEwan University (John L.
+Haar Library, or MacEwan University Library), Northern Alberta Institute of
+Technology (McNally Library, or NAIT Library), University of Alberta
+(Department of English and Film Studies, School of Library and Information
+Studies, and University of Alberta Libraries \[Cameron Library, Rutherford
+North Library, and Rutherford South Library\]), University of Calgary
+(Department of Community Health Sciences), and University of Western Ontario
+(Faculty of Information and Media Studies).
 
 <p align="center">* * *</p>
 
@@ -29,7 +29,7 @@ career include the following:
 
 - Developed numerous scripts to facilitate data processing and data
   transformation operations on data exported from, and imported to, various
-  MacEwan University Library information systems.
+  MacEwan University Library information systems. (2016&ndash;present)
 - Developed scripts, wrote documentation, and generated reports for MacEwan
   University Library's MARC records editing operations that were performed when
   the Library migrated to a new library services platform.  The programming
