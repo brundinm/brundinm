@@ -59,8 +59,8 @@ career include the following:
   Web. (2007)
 - Developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
   stack to provide the data collection instrument for a SSHRC-funded grant to
-  investigate students’ use of instant messaging on the University of Western
-  Ontario campus. (2005)
+  investigate university students’ use of instant messaging on the University
+  of Western Ontario campus. (2005)
 - Designed and developed a digital resource repository application using a LAMP
   stack for the Canada-wide CAM (Complementary and Alternative Medicine) in UME
   (Undergraduate Medical Education) Project out of the University of Calgary.
