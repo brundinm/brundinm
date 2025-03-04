@@ -97,7 +97,7 @@ career include the following:
 
 <p align="center">* * *</p>
 
-Beginning computing activities in 1980, I have used the following computer
+Beginning my computing activities in 1980, I have used the following computer
 languages, including writing code using the subset of listed programming
 languages (the compiled and interpreted languages, SQL, XSLT, etc.):
 
