@@ -42,9 +42,10 @@ career include the following:
   Canada’s (RSC) Expert Panel on The Status and Future of Canada’s Libraries
   and Archives mapping and timeline application of the libraries and archives
   of Canada. (2013&ndash;2016)
-- Designed and developed a GIS application for the Edmonton Public Library to
-  serve as the repository for community profiles, and to facilitate the
-  identification of branch library resource, program, and service needs. (2011)
+- Designed and developed a GIS (geographic information system) application for
+  the Edmonton Public Library to serve as the repository for community
+  profiles, and to facilitate the identification of branch library resource,
+  program, and service needs. (2011)
 - Developed a Microsoft Excel and VBA spreadsheet application model that
   calculated Edmonton Public Library branch library productivity (units of
   activity per hour per FTE) using a weighted formula incorporating various
