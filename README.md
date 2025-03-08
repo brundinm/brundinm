@@ -56,7 +56,7 @@ career include the following:
   resources related to Alzheimer’s disease that was an experimental online
   version of the traditional library vertical file, part of a larger research
   project at the University of Western Ontario comparing traditional library
-  information systems and the emerging standards and protocols of the Semantic
+  information systems with the emerging standards and protocols of the Semantic
   Web. (2007)
 - Developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
   stack to provide the data collection instrument for a SSHRC-funded grant to
