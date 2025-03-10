@@ -39,12 +39,12 @@ career include the following:
 - Developed the CWRC (Canadian Writing Research Collaboratory)&ndash;hosted
   Royal Society of Canada (RSC) Expert Panel on The Status and Future of
   Canada's Libraries and Archives mapping and timeline application, a SIMILE
-  Exhibit web application framework displaying the location of, and the year of
+  Exhibit data publishing framework displaying the location of, and the year of
   establishment for, many of the libraries and archives of Canada. (2014)
 - Contributed to various systems and software tools in the CWRC infrastructure
   platform at the University of Alberta, including data modeling, data
-  transformation, and systems and application collaborative work with various
-  software application developers. (2013&ndash;2016)
+  transformation, and systems and tools collaborative development work with
+  various software application developers. (2013&ndash;2016)
 - Designed and developed a GIS (geographic information system) application for
   the Edmonton Public Library to serve as the repository for community
   profiles, and to facilitate the identification of branch library resource,
