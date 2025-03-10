@@ -44,7 +44,7 @@ career include the following:
 - Contributed to various systems and software tools in the CWRC infrastructure
   platform at the University of Alberta, including data modeling, data
   transformation, and systems and application collaborative work with various
-  distributed software application developers. (2013&ndash;2016)
+  software application developers. (2013&ndash;2016)
 - Designed and developed a GIS (geographic information system) application for
   the Edmonton Public Library to serve as the repository for community
   profiles, and to facilitate the identification of branch library resource,
