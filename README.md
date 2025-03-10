@@ -36,12 +36,15 @@ career include the following:
 - Developed numerous scripts to facilitate data processing and data
   transformation operations on data exported from, and imported to, various
   MacEwan University Library information systems. (2016&ndash;present)
-- Developed and enhanced various systems and software applications in the CWRC
-  (Canadian Writing Research Collaboratory) Islandora repository at the
-  University of Alberta, including developing the CWRC-hosted Royal Society of
-  Canada’s (RSC) Expert Panel on The Status and Future of Canada’s Libraries
-  and Archives mapping and timeline application of the libraries and archives
-  of Canada. (2013&ndash;2016)
+- Developed the CWRC (Canadian Writing Research Collaboratory)&ndash;hosted
+  Royal Society of Canada (RSC) Expert Panel on The Status and Future of
+  Canada's Libraries and Archives mapping and timeline application, a SIMILE
+  Exhibit web application framework displaying the location of, and the year of
+  establishment for, many of the libraries and archives of Canada. (2014)
+- Contributed to various systems and software tools in the CWRC infrastructure
+  platform at the University of Alberta, including data modeling, data
+  transformation, and systems and application collaborative work with various
+  distributed software application developers. (2013&ndash;2016)
 - Designed and developed a GIS (geographic information system) application for
   the Edmonton Public Library to serve as the repository for community
   profiles, and to facilitate the identification of branch library resource,
