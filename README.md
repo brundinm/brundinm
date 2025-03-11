@@ -38,7 +38,7 @@ career include the following:
   MacEwan University Library information systems. (2016&ndash;present)
 - Developed the CWRC (Canadian Writing Research Collaboratory)&ndash;hosted
   Royal Society of Canada (RSC) Expert Panel on The Status and Future of
-  Canada's Libraries and Archives mapping and timeline application built using
+  Canada's Libraries and Archives mapping and timeline application, which used
   the SIMILE Exhibit data publishing framework to display the location of, and
   the year of establishment for, many of the libraries and archives of Canada.
   (2014)
