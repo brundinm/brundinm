@@ -38,9 +38,10 @@ career include the following:
   MacEwan University Library information systems. (2016&ndash;present)
 - Developed the CWRC (Canadian Writing Research Collaboratory)&ndash;hosted
   Royal Society of Canada (RSC) Expert Panel on The Status and Future of
-  Canada's Libraries and Archives mapping and timeline application, a SIMILE
-  Exhibit data publishing framework displaying the location of, and the year of
-  establishment for, many of the libraries and archives of Canada. (2014)
+  Canada's Libraries and Archives mapping and timeline application, which used
+  the SIMILE Exhibit data publishing framework to display the location of, and
+  the year of establishment for, many of the libraries and archives of Canada.
+  (2014)
 - Contributed to various systems and software tools in the CWRC infrastructure
   platform at the University of Alberta, including data modeling, data
   transformation, and systems and tools collaborative development work with
@@ -103,7 +104,7 @@ career include the following:
 
 Beginning my computing activities in 1980, I have used the following computer
 languages, including writing code using the subset of listed programming
-languages (the compiled and interpreted languages, SQL, XSLT, etc.):
+languages (e.g., the compiled and interpreted languages, SQL, XSLT, etc.):
 
 - Compiled languages
   - ActionScript
