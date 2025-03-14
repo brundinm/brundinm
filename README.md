@@ -128,6 +128,8 @@ languages (e.g., the compiled and interpreted languages, SQL, XSLT, etc.):
     Alberta)
   - Visual Basic (VB classic and VB.NET)<br><br>
 - Interpreted (or scripting) languages
+  - Apple Logo (Apple's dialect of the Logo programming language; Logo is an
+    adaptation and dialect of the Lisp programming language)
   - AWK (Aho, Weinberger, and Kernighan &#91;AWK authors' last names&#93;)
   - DOS/Windows batch file (COMMAND.COM and cmd.exe)
   - GW-BASIC (Microsoft's dialect of the BASIC programming language)
