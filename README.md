@@ -111,12 +111,15 @@ languages (e.g., the compiled and interpreted languages, SQL, XSLT, etc.):
   - ALGOL W (Algorithmic Language)
   - BASIC (Beginners' All-Purpose Symbolic Instruction Code)
   - C
+  - C#
   - C++
   - COBOL (Common Business-Oriented Language)
   - Fortran (FORTRAN; Formula Translation)
   - Go
   - Java
+  - Kotlin
   - Lisp (LISP; List Processing)
+  - Objective-C
   - Pascal
   - TUTOR (PLATO Author Language) (programming language of the PLATO
     &#91;Programmed Logic for Automatic Teaching Operations&#93;
