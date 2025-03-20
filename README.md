@@ -217,7 +217,9 @@ languages (e.g., the compiled and interpreted languages, SQL, XSLT, etc.):
     - RDFa (Resource Description Framework in Attributes)
     - Turtle (Terse RDF Triple Language)  
 
-<p align="center"><span>* * *</span></p>
+<p align="center">* * *</p>
 
 The code and files in the repositories below are from different digital
 projects that I have worked on at MacEwan University.
+
+<p align="center">&#8258;</p>
