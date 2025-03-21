@@ -222,4 +222,4 @@ languages (e.g., the compiled and interpreted languages, SQL, XSLT, etc.):
 The code and files in the repositories below are from different digital
 projects that I have worked on at MacEwan University.
 
-<p align="center">&#8258;<br>&#10087;&#10087;&#10087;</p>
+<p align="center">&#8258;<br>&#10087; &#10087; &#10087;</p>
