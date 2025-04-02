@@ -22,7 +22,7 @@ North Library, and Rutherford South Library\]), University of Calgary
 (Department of Community Health Sciences), and University of Western Ontario
 (Faculty of Information and Media Studies).
 
-<p align="center">* * *</p>
+<p align="center" role="separator" aria-label="Dinkus section break">* * *</p>
 
 Some of the software applications that I have developed or contributed to in my
 career include the following:
@@ -100,7 +100,7 @@ career include the following:
   queries, thus making possible user activity analyses and transaction log
   analyses. (1997&ndash;1998)
 
-<p align="center">* * *</p>
+<p align="center" role="separator" aria-label="Dinkus section break">* * *</p>
 
 Beginning my computing activities in 1980, I have used the following computer
 languages, including writing code using the subset of listed programming
@@ -217,9 +217,9 @@ languages (e.g., the compiled and interpreted languages, SQL, XSLT, etc.):
     - RDFa (Resource Description Framework in Attributes)
     - Turtle (Terse RDF Triple Language)  
 
-<p align="center">* * *</p>
+<p align="center" role="separator" aria-label="Dinkus section break">* * *</p>
 
 The code and files in the repositories below are from different digital
 projects that I have worked on at MacEwan University.
 
-<p align="center">&#8258;</p>
+<p align="center" role="separator" aria-label="Asterism section break">&#8258;</p>
