@@ -224,7 +224,7 @@ projects that I have worked on at MacEwan University.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/brundinm/brundinm/refs/heads/main/img/mc-escher-ascending-descending" alt="JPG raster image of M. C. Escher&apos;s lithographic print Ascending and Descending (March 1960)" width="240" height="286">
+<img src="https://raw.githubusercontent.com/brundinm/brundinm/refs/heads/main/img/mc-escher-ascending-descending.jpg" alt="JPG raster image of M. C. Escher&apos;s lithographic print Ascending and Descending (March 1960)" width="240" height="286">
 
 <pre>
     Solvitur ambulando
