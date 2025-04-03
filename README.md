@@ -224,8 +224,8 @@ projects that I have worked on at MacEwan University.
 
 <p align="center" role="separator" aria-label="Dinkus section break">* * *</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/brundinm/brundinm/refs/heads/main/img/mc-escher-ascending-and-descending.jpg" alt="JPG raster image of M. C. Escher&apos;s lithographic print Ascending and Descending (March 1960)" width="240" height="286"><br>
-    Solvitur ambulando<br>
+<p align="center"><img src="https://raw.githubusercontent.com/brundinm/brundinm/refs/heads/main/img/mc-escher-ascending-and-descending.jpg" alt="JPG raster image of M. C. Escher&apos;s lithographic print Ascending and Descending (March 1960)" width="240" height="286" border="1"><br>
+    <i>Solvitur ambulando</i><br>
 [It is solved by walking]</p>
 
 <p align="center" role="separator" aria-label="Asterism section break">&#8258;</p>
