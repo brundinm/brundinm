@@ -226,7 +226,7 @@ projects that I have worked on at MacEwan University.
 
 <p align="center"><kbd><img src="https://raw.githubusercontent.com/brundinm/brundinm/refs/heads/main/img/mc-escher-ascending-and-descending.jpg" alt="JPG raster image of M. C. Escher&apos;s lithographic print Ascending and Descending (March 1960)" width="240" height="286"></kbd><br>
 M. C. Escher, <i>Ascending and Descending</i><br>
-    &#x00b7; Solvitur ambulando<br>
-[It is solved by walking] &#x00b7;</p>
+    &bull; Solvitur ambulando<br>
+[It is solved by walking] &bull;</p>
 
 <p align="center" role="separator" aria-label="Asterism section break">&#8258;</p>
