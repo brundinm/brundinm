@@ -57,14 +57,14 @@ career include the following:
   (activity and use) to aid in branch library resource allocation decisions.
   (2010)
 - Designed and created an RDF/XML metadata web application featuring web
-  resources related to Alzheimer’s disease that was an experimental online
+  resources related to Alzheimer's disease that was an experimental online
   version of the traditional library vertical file, part of a larger research
   project at the University of Western Ontario comparing traditional library
   information systems with the emerging standards and protocols of the Semantic
   Web. (2007)
 - Developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
   stack to provide the data collection instrument for a SSHRC-funded grant to
-  investigate university students’ use of instant messaging on the University
+  investigate university students' use of instant messaging on the University
   of Western Ontario campus. (2005&ndash;2006)
 - Designed and developed a digital resource repository application using a LAMP
   stack for the Canada-wide CAM (Complementary and Alternative Medicine) in UME
@@ -72,12 +72,12 @@ career include the following:
   Repository features included searching via Boolean operators, field
   qualification, field limits, wildcard operators, and nested searching;
   browsing via hypertext linked peer-reviewed summaries on CAM topics; browsing
-  via hypertext linked controlled subject terms (descriptors) applied to
+  via hypertext linked controlled MeSH subject terms (descriptors) applied to
   describe the content of each resource; and a submission process so users
   could submit CAM-related resources for inclusion into the repository.
   (2005&ndash;2010)
 - Developed extended services for, and resources integration within, the
-  Java-based bibliographic search tool TAL Online (using OCLC’s SiteSearch set
+  Java-based bibliographic search tool TAL Online (using OCLC's SiteSearch set
   of tools), a virtual union catalog maintained by The Alberta Library (a
   province-wide library consortium) providing unified access to the catalogs of
   hundreds of libraries across Alberta (academic, public, and special
@@ -95,8 +95,8 @@ career include the following:
   features included field-specific searching (title, author, subject), Boolean
   operator applied searching (AND, OR), and string phrase searching (exact
   query phrase); an experimental search interface to facilitate subject
-  searching of the catalog by using a thesaurus of hyperlinked subject terms;
-  and logging of both catalog web page visits as well as catalog search
+  searching of the catalog by using a thesaurus of hyperlinked LCSH subject
+  terms; and logging of both catalog web page visits as well as catalog search
   queries, thus making possible user activity analyses and transaction log
   analyses. (1997&ndash;1998)
 
