@@ -153,16 +153,18 @@ languages (e.g., the compiled and interpreted languages, SQL, XSLT, etc.):
 - Query languages
   - CCL (Common Command Language) (Z38.58 ANSI/NISO standard for information
     retrieval in OPACs and databases)
-  - CQL (Contextual Query Language) (Library of Congress's CQL query using the
-    SRU &#91;Search/Retrieve via URL&#93; protocol)
+  - CQL (Contextual Query Language) (Library of Congress's language for
+    performing queries of information retrieval systems using the SRU
+    &#91;Search/Retrieve via URL&#93; protocol)
   - DIALOG (command language of the DIALOG system, an online search system
     provided as a subscription service from Dialog Information Retrieval
     Services)
   - iTQL (Interactive Tucana Query Language) (RDF query language of the Mulgara
     triplestore &#91;database of RDF triples&#93;)
   - jq (JSON query) (jq is a filter similar to sed for JSON data)
-  - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's Z39.50
-    type-1 query using the Z39.50 protocol)
+  - PQF/PQN (Prefix Query Format / Prefix Query Notation) (Index Data's 
+    language for performing Z39.50 type-1 RPN &#91;reverse polish notation&#93;
+    queries using the Z39.50 protocol)
   - SPARQL (SPARQL Protocol and RDF Query Language)
   - SQL (Structured Query Language)<br><br>
 - XML transformation languages
