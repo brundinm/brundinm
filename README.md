@@ -22,10 +22,6 @@ North Library, and Rutherford South Library\]), University of Calgary
 (Department of Community Health Sciences), and University of Western Ontario
 (Faculty of Information and Media Studies).
 
-<p>
-[UofA](https://www.ualberta.ca/){target="_blank" rel="noopener"}
-</p>
-
 <p align="center" role="separator" aria-label="Dinkus section break">* * *</p>
 
 Some of the software applications that I have developed or contributed to in my
