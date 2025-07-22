@@ -23,7 +23,7 @@ North Library, and Rutherford South Library\]), University of Calgary
 (Faculty of Information and Media Studies).
 
 <p>
-&#91;UofA&#93;(https://www.ualberta.ca/){:target="_blank" rel="noopener"}
+[UofA](https://www.ualberta.ca/){target="_blank" rel="noopener"}
 </p>
 
 <p align="center" role="separator" aria-label="Dinkus section break">* * *</p>
