@@ -88,7 +88,7 @@ career include the following:
 - Designed and created a Microsoft Access and VBA bindery database application
   to automate the bindery process at the University of Alberta Libraries.  The
   University of Alberta Libraries Bindery Database was implemented in December
-  1997, and it is still in production 27 years later! (1997&ndash;2004)
+  1997, and it is still in production 28 years later! (1997&ndash;2004)
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta.  Reference collection catalog
