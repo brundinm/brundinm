@@ -1,7 +1,7 @@
 ### Michael Brundin
 
 ```
-Michael Brundin, BSc, MLIS
+Michael Brundin, MLIS, BSc
 Digital Services and Systems Librarian
 MacEwan University Library
 MacEwan University
