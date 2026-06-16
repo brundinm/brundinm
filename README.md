@@ -18,10 +18,10 @@ career (1997&ndash;present) include the following:
   the Library migrated to a new library services platform.  The programming
   languages used were AWK, Bash (shell), Perl, Python, sed, and XSLT, and the
   MARC formats the scripts operated on were MARC 21 binary records, MARCXML
-  and TurboMARC XML records, and MARC mnemonic text records. (2024)
+  and TurboMARC XML records, and MARC mnemonic text records. (2024).
 - Developed numerous scripts to facilitate data processing and data
   transformation operations on data exported from, and imported to, various
-  MacEwan University Library information systems. (2016&ndash;present)
+  MacEwan University Library information systems. (2016&ndash;present).
 - Developed the CWRC (Canadian Writing Research Collaboratory)&ndash;hosted
   Royal Society of Canada (RSC) Expert Panel on The Status and Future of
   Canada's Libraries and Archives mapping and timeline application, which used
@@ -31,7 +31,7 @@ career (1997&ndash;present) include the following:
 - Contributed to various systems and software tools in the CWRC infrastructure
   platform at the University of Alberta, including data modeling, data
   transformation, and systems and tools collaborative development work with
-  various software application developers. (2013&ndash;2016)
+  various software application developers. (2013&ndash;2016).
 - Designed and developed a GIS (geographic information system) application for
   the Edmonton Public Library to serve as the repository for community
   profiles, and to facilitate the identification of branch library resource,
