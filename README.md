@@ -27,7 +27,7 @@ career (1997&ndash;present) include the following:
   Canada's Libraries and Archives mapping and timeline application, which used
   the SIMILE Exhibit data publishing framework to display the location of, and
   the year of establishment for, many of the libraries and archives of Canada.
-  (2014)
+  (2014).
 - Contributed to various systems and software tools in the CWRC infrastructure
   platform at the University of Alberta, including data modeling, data
   transformation, and systems and tools collaborative development work with
@@ -35,23 +35,23 @@ career (1997&ndash;present) include the following:
 - Designed and developed a GIS (geographic information system) application for
   the Edmonton Public Library to serve as the repository for community
   profiles, and to facilitate the identification of branch library resource,
-  program, and service needs. (2011)
+  program, and service needs. (2011).
 - Developed a Microsoft Excel and VBA spreadsheet application model that
   calculated Edmonton Public Library branch library productivity (units of
   activity per hour per FTE) using a weighted formula incorporating various
   library input measures (investments and resources) and output measures
   (activity and use) to aid in branch library resource allocation decisions.
-  (2010)
+  (2010).
 - Designed and created an RDF/XML metadata web application featuring web
   resources related to Alzheimer's disease that was an experimental online
   version of the traditional library vertical file, part of a larger research
   project at the University of Western Ontario comparing traditional library
   information systems with the emerging standards and protocols of the Semantic
-  Web. (2007)
+  Web. (2007).
 - Developed a web-based survey using a LAMP (Linux, Apache, MySQL, and PHP)
   stack to provide the data collection instrument for a SSHRC-funded grant to
   investigate university students' use of instant messaging on the University
-  of Western Ontario campus. (2005&ndash;2006)
+  of Western Ontario campus. (2005&ndash;2006).
 - Designed and developed a digital resource repository application using a LAMP
   stack for the Canada-wide CAM (Complementary and Alternative Medicine) in UME
   (Undergraduate Medical Education) Project out of the University of Calgary.
@@ -61,7 +61,7 @@ career (1997&ndash;present) include the following:
   via hypertext linked controlled MeSH subject terms (descriptors) applied to
   describe the content of each resource; and a submission process so users
   could submit CAM-related resources for inclusion into the repository.
-  (2005&ndash;2010)
+  (2005&ndash;2010).
 - Developed extended services for, and resources integration within, the
   Java-based bibliographic search tool TAL Online (using OCLC's SiteSearch set
   of tools), a virtual union catalog maintained by The Alberta Library (a
@@ -70,11 +70,11 @@ career (1997&ndash;present) include the following:
   libraries).  In 2002, the TAL Online team was awarded the LibraryNet Best
   Practices Award by Industry Canada and LibraryNet for innovation in a library
   communication and technology project&mdash;features that I had developed in
-  TAL Online were mentioned in the announcement of the award. (2000&ndash;2002)
+  TAL Online were mentioned in the announcement of the award. (2000&ndash;2002).
 - Designed and created a Microsoft Access and VBA bindery database application
   to automate the bindery process at the University of Alberta Libraries.  The
   University of Alberta Libraries Bindery Database was implemented in December
-  1997, and it is still in production 28 years later! (1997&ndash;2004)
+  1997, and it is still in production 28 years later! (1997&ndash;2004).
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta.  Reference collection catalog
@@ -84,7 +84,7 @@ career (1997&ndash;present) include the following:
   searching of the catalog by using a thesaurus of hyperlinked LCSH subject
   terms; and logging of both catalog web page visits as well as catalog search
   queries, thus making possible user activity analyses and transaction log
-  analyses. (1997&ndash;1998)
+  analyses. (1997&ndash;1998).
 
 <p align="center" role="separator" aria-label="Dinkus section break">* * *</p>
 
