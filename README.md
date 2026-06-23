@@ -72,16 +72,16 @@ career (1997&ndash;present) include the following:
   communication and technology project&mdash;features that I had developed in
   TAL Online were mentioned in the announcement of the award. (2000&ndash;2002).
 - Designed and created a Microsoft Access and VBA bindery database application
-  to automate the bindery process at the University of Alberta Libraries.  The
-  University of Alberta Libraries Bindery Database was implemented in December
-  1997, and it is still in production 28 years later! In addition to the core
-  workflow features needed to process print periodicals for shipment to the
-  binderies to be bound, the Bindery Database also outputted lists of
-  periodicals that were at the binderies for each unit library. These lists
-  were available on the University of Alberta Libraries website for staff and
-  patrons to consult, and the information contained in each list consisted of
-  the following: title, enumeration (e.g., volume, year, pagination), and date
-  the periodical was sent to the bindery. (1997&ndash;2004).
+  to automate the bindery process at the University of Alberta Libraries.  In
+  addition to the core workflow features needed to process print periodicals for
+  shipment to the binderies to be bound, the Bindery Database also outputted
+  lists of periodicals that were at the binderies for each unit library.  These
+  lists were available on the University of Alberta Libraries website for staff
+  and patrons to consult, and the information contained in each list consisted
+  of the following: title, enumeration (e.g., volume, year, pagination), and
+  date the periodical was sent to the bindery.  The University of Alberta
+  Libraries Bindery Database was implemented in December 1997, and it is still
+  in production 28 years later! (1997&ndash;2004).
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta.  Reference collection catalog
