@@ -26,8 +26,10 @@ career (1997&ndash;present) include the following:
   Royal Society of Canada (RSC) Expert Panel on The Status and Future of
   Canada's Libraries and Archives mapping and timeline application, which used
   the SIMILE Exhibit data publishing framework to display the location of, and
-  the year of establishment for, many of the libraries and archives of Canada.
-  (2014).
+  the year of establishment for, many of the libraries and archives of Canada;
+  the visualization application was included as part of the RSC Expert Panel's
+  report <em>The Future Now: Canada's Libraries, Archives, and Public
+  Memory</em> (Royal Society of Canada; 2014). (2014).
 - Contributed to various systems and software tools in the CWRC infrastructure
   platform at the University of Alberta, including data modeling, data
   transformation, and systems and tools collaborative development work with
