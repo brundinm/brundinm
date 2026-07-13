@@ -15,7 +15,7 @@ career (1997&ndash;present) include the following:
 
 - Developed scripts, wrote documentation, and generated reports for MacEwan
   University Library's MARC records editing operations that were performed when
-  the Library migrated to a new library services platform.  The programming
+  the Library migrated to a new library services platform. The programming
   languages used were AWK, Bash (shell), Perl, Python, sed, and XSLT, and the
   MARC formats the scripts operated on were MARC 21 binary records, MARCXML
   and TurboMARC XML records, and MARC mnemonic text records. (2024).
@@ -24,11 +24,11 @@ career (1997&ndash;present) include the following:
   MacEwan University Library information systems. (2016&ndash;present).
 - Developed the CWRC (Canadian Writing Research Collaboratory)&ndash;hosted
   Royal Society of Canada (RSC) Expert Panel on The Status and Future of
-  Canada's Libraries and Archives mapping and timeline application, which used
-  the SIMILE Exhibit data publishing framework to display the location of, and
-  the year of establishment for, many of the libraries and archives of Canada;
-  the visualization application was included as part of the RSC Expert Panel's
-  report <em>The Future Now: Canada's Libraries, Archives, and Public
+  Canada's Libraries and Archives mapping and timeline web application, which
+  used the SIMILE Exhibit data publishing framework to display the location of,
+  and the year of establishment for, many of the libraries and archives of
+  Canada; the visualization application was included as part of the RSC Expert
+  Panel's report <em>The Future Now: Canada's Libraries, Archives, and Public
   Memory</em> (Royal Society of Canada; 2014). (2014).
 - Contributed to various systems and software tools in the CWRC infrastructure
   platform at the University of Alberta, including data modeling, data
@@ -69,25 +69,25 @@ career (1997&ndash;present) include the following:
   of tools), a virtual union catalog maintained by The Alberta Library (a
   province-wide library consortium) providing unified access to the catalogs of
   hundreds of libraries across Alberta (academic, public, and special
-  libraries).  In 2002, the TAL Online team was awarded the LibraryNet Best
+  libraries). In 2002, the TAL Online team was awarded the LibraryNet Best
   Practices Award by Industry Canada and LibraryNet for innovation in a library
   communication and technology project&thinsp;&mdash;&thinsp;features that I had
   developed in TAL Online were mentioned in the announcement of the award.
   (2000&ndash;2002).
 - Designed and created a Microsoft Access and VBA bindery database application
-  to automate the bindery process at the University of Alberta Libraries.  In
+  to automate the bindery process at the University of Alberta Libraries. In
   addition to the core workflow features needed to process print periodicals for
-  shipment to the binderies to be bound, the Bindery Database also outputted
-  lists of periodicals that were at the binderies for each unit library.  These
+  shipment to the binderies to be bound, the Bindery Database also outputted HTML
+  lists of periodicals that were at the binderies for each unit library. These
   lists were available on the University of Alberta Libraries website for staff
   and patrons to consult, and the information contained in each list consisted
   of the following: title, enumeration (e.g., volume, year, pagination), and
-  date the periodical was sent to the bindery.  The University of Alberta
+  date the periodical was sent to the bindery. The University of Alberta
   Libraries Bindery Database was implemented in December 1997, and it is still
   in production 28 years later! (1997&ndash;2004).
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
-  and Information Studies, University of Alberta.  Reference collection catalog
+  and Information Studies, University of Alberta. Reference collection catalog
   features included field-specific searching (title, author, subject), Boolean
   operator applied searching (AND, OR), and string phrase searching (exact
   query phrase); an experimental search interface to facilitate subject
