@@ -81,10 +81,10 @@ career (1997&ndash;present) include the following:
   lists of periodicals that were at the binderies for each unit library. These
   lists were available on the University of Alberta Libraries website for staff
   and patrons to consult, and the information contained in each list consisted
-  of the following: title, enumeration (e.g., volume, year, pagination), and
-  date the periodical was sent to the bindery. The University of Alberta
-  Libraries Bindery Database was implemented in December 1997, and it is still
-  in production 28 years later! (1997&ndash;2004).
+  of the following: title, enumeration and chronology (e.g., volume, issues,
+  year), and date the periodical was sent to the bindery. The University of
+  Alberta Libraries Bindery Database was implemented in December 1997, and it is
+  still in production 28 years later! (1997&ndash;2004).
 - Developed an experimental web-based library catalog for a reference book
   collection using Perl CGI scripts and SSI directives at the School of Library
   and Information Studies, University of Alberta. Reference collection catalog
