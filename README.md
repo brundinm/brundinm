@@ -1,6 +1,6 @@
 ### Michael R. Brundin
 
-```
+<pre>
 Michael Brundin, MLIS, BSc
 Digital Services and Systems Librarian
 MacEwan University Library
@@ -8,7 +8,7 @@ MacEwan University
 7-275B, 10700 104 Avenue NW
 Edmonton, Alberta
 Canada T5J 4S2
-```
+</pre>
 
 Some of the software applications that I have developed or contributed to in my
 career (1997&ndash;present) include the following:
