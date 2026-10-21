@@ -1,4 +1,4 @@
-### Michael R. Brundin
+<h2>Michael R. Brundin</h2>
 
 <pre>
 Michael Brundin, MLIS, BSc
