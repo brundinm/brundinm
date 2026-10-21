@@ -7,7 +7,7 @@ MacEwan University Library<br />
 MacEwan University<br />
 7-275B, 10700 104 Avenue NW<br />
 Edmonton, Alberta<br />
-Canada T5J 4S2<br />
+Canada T5J 4S2<br /><br />
 </samp>
 
 Some of the software applications that I have developed or contributed to in my
