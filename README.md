@@ -2,7 +2,7 @@
 
 <pre>
 Michael Brundin, MLIS, BSc
-<a href="https://library.macewan.ca/about/our-people/michael-brundin" target="_blank">Digital Services and Systems Librarian</a>
+Digital Services and Systems Librarian
 MacEwan University Library
 MacEwan University
 7-275B, 10700 104 Avenue NW
